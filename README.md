@@ -5,7 +5,7 @@ Use launchmod_eldenring to open the mod.
 2 team types (red and blue team)
 Custom setable respawn points
 An ingame scoreboard
-Built in Kill all mobs script
+Built in kill all mobs script
 
 
 
