@@ -3,8 +3,11 @@ Use launchmod_eldenring to open the mod.
 
 3v3 features created by Molly include:
 2 team types (red and blue team)
+
 Custom setable respawn points
+
 An ingame scoreboard
+
 Built in kill all mobs script
 
 
