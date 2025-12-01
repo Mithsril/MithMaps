@@ -6,6 +6,7 @@ Current maps located in:
 
 1. Eternal City Courtyard (just this rn)
 
+
 3v3 features created by Molly include:
 
 2 team types (red and blue team)
@@ -15,6 +16,7 @@ Custom setable respawn points
 An ingame scoreboard
 
 Built in kill all mobs script
+
 
 Hotkeys:
 
