@@ -16,7 +16,21 @@ An ingame scoreboard
 
 Built in kill all mobs script
 
+Hotkeys:
 
+F1: Red Team
+
+F2: Blue Team
+
+F3: Leave the Team (need to be on this to use seperation mist)
+
+F4: Show Score
+
+F5: Clear Score
+
+F6: Set Custom Respawn Location
+
+Insert: Kill All Mobs
 
 "# MithMaps" 
 "# MithMaps" 
