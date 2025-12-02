@@ -1,0 +1,20 @@
+{
+    "Version": "2.1.0",
+    "HashList": [
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bf4578407c4b41590d457a1c715b8d12c495f927dcef91d0c1ed9ce646f5120d",
+            "Path": "{{MODENGINE}}/modengine2_launcher.exe"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f1559f6db79887717e7568257f7a65ad86bc5ecfef948cd05b5ee77de41e14d5",
+            "Path": "{{MODENGINE}}/modengine2/bin/lua.dll"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0e6105840422a7828faf137efb1c5823c8c8e6cfb044b12a360307bda745175e",
+            "Path": "{{MODENGINE}}/modengine2/bin/modengine2.dll"
+        }
+    ]
+}

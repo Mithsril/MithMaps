@@ -1,0 +1,2320 @@
+{
+    "Version": "1.7.0-beta19",
+    "HashList": [
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1d384623be4dbbfca43b9fa3e592bbe1d7159126e89591eac8c3ba536cf52664",
+            "Path": "{{DENMAPS}}/mod_files/DEN-Maps.dll"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "090c0d6d763daa1287c24f97b1e1056025961a3269764d997f4c95abf5bb9861",
+            "Path": "{{DENMAPS}}/mod_files/EldenRingScriptExtender.dll"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "97054d0b970488ab456a8217c655f06cd2c2fa04647a2ce349b22e174ac4092a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/regulation.bin"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2b71c78c851c47161d460a0dc5974c42d90ca10afe0a6eb1f4d17b9998e0bca0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/common.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a2d54261ba155eaf042e312e6a51620eeb0d999034e8c10ba585be6f9b36fef0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/common_func.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7b6f2a40e613a98678cb8f21adc05bf68b621416b962718a8d39453d445fa2f3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_00_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7db89804931b7dda151f20ff30132491eb12978f279aaf557c7f77f5f14ac24c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_01_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f39bdebb1d1d0e755d88af074025bc63b4ee61819f211f221881e8f6eae1c0b7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_02_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b64a079a226256b650b0cc9cac607d48533888bb23ea1487cfef22d661a805d0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_03_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "824a70601c19d5073cdea31e346c62861477c42db41115d5cb871cfafa08520b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_04_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "af3d901d79592313c49edcb0f9faebfc6c64e4281408144ebcee7d6dafbaaff7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_05_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8563b6788b577c2d245b259b0086b185f721c98d405a84811662d74304db2c55",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_06_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b1201718a83df71ae88bc9fff96a21fff02729dc322a440cefca54e8088a17a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_07_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "778a3002d2879e554f4e16b21f1bdadd0fbba7c4ef8a1d7e862a5116e5800c34",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_08_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cb15582b742afd1d1e5e018a3f3b28cd1b49b922c80a7e25326ec834c6e537bd",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_09_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1b1597d63cad1937cbefae0e5803eeaf0b629cbe5ca5ad8cc79ab0b65a3a0ba5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m46_10_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a4f01df60b75ee65efc7e2342bede1ea4e6bae7f50f0dc47825168d301539d25",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_00_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7b0caa5fc5ab42d8b39df937442c64a287add51027b84379c1dc16dee5439ed2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_01_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cabe3fa5b91f93dbc3eb61f71718eda945825d2a6e75e32aca2f60d39bee1727",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_02_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8374a49c22e16ed30dac01e70d7e29acfc11fa40401574a634414caee82eedd6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_03_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e786584056b5ace5237b6254403040730d3e07e279e650ba2bf7faaf737f2029",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_04_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "92f9581ec440f450a749eed40a5617455e71b8db8e4717ed2a41b93b71bde7ae",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_05_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0726ec6addc1198ef77b470a2af21c2ccbf8e06b206a7db5230fc1326b9797f4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_06_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ae75773a8ff72a83aa51f8ec378a59afec429409588255e2245390e8f135bbc3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_07_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d8a5ff0a3cf7c9fe550e6aa9d379bbde776e2be2ff2122bf1852c3cc7d46d76b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_08_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9ce5c9e50fdb673846fcc44145dd087fd9302f1c10b3c807fba97f6c683edea4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m47_09_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "13712efd25e6032754b7bf2ebbf32dcbd9aa6d43307a0702eb50424a5f54fe2c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/event/m49_00_00_00.emevd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "577b0f9233060c7a19c30c8c9114fc0043da279dddc2cf588f00cbf22b0f5d2f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/worldmsblist.worldloadlistlist.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce6553be9d2ff2b369e5bb4130c1db10dd3356bad599110757ac5c64f4e56843",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_001.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c78eb668fff1e574c0aff23b88d2241d10151ea0dc58d501e5722b16f417c279",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_002.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1a799d806391baf15792ee824c7df8b725da7fbffd48019e1819ddc8c47de05c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_003.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fc8818aa8784e734b997f685f6a65b00e785b37064a71dccc910207868f23052",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_004.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cc092f97ace9cff2b0da75a82343713df7c833c8044e8710c00fa822d81d454c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_004_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f8b1e0f9bb35bc7c8ead704954bd29fd56ac8fdad1020536e5b8286831a26dc2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_006.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e5f969b82c940db8bb8ed4912d028d8fc53e725241356d2630ae4cf7e695d7ce",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_007.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ea9c7483ad5c102a659d424f46b08a9fc1590b3120796979a6f2858d9379c704",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_008.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "de870c9953290b617c3adebb53e47da8c1cda5896ffddcba9b1aa53bcbd6b84d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_009.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f1873d6c1e5f990f7f1c4a07f242d36950498c911f9c78b8f6bc88a587d07040",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_010.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8acf6a3a51f4067842c4c515cf02e7449e7ea7777cca36ef505496ff76d4e23d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_011.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9e6c2fd2cf95d7a186fe9ca11f7d33adc9b9743ac86217964dc93228ea57fdca",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_012.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "94c14f5969be9aa975d08f4b134bc4da53e56dd786d7993a5b1951a4119dbc6d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_012_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "af54307171bfcbe6a90e2f59f31057ad51ef780884edc4c2754e00416b058026",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_012_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "eeb7c3cdd285dc6e719be756ff95cda75c2e9964fbd801a2495a7d68ed8ca7ab",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_013.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "736ebc014af2d7f70657ecde0ddad48db40a3febbd2b1c024866714d1009975c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_013_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bcc917c8ceeb9fdf9db527aac876932cffac3cc6f5f55fdc762572e5f5974e85",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_013_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e33811c7bfef70a8e0c926498527ddb7c7558934471955d48e1fb25ec456a1cb",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_014.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9449bb89519f5f1e58fb3ff8508d0b4cda2aa302900b0c76a1dea325c9c255a8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_014_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5d69a99afeb7ac010419680c83d5437fe03439adbcdcc8b358bc4db2ba301cfe",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_015.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c626a4965164d4c0cfe4185d3381bedfd118b0e7d15e552984af2d13cbed24a1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_015_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "278d3df4787aa40e3d658aa2e0d0de7ccb1cf4c539032dc22fa8949bd2d40a99",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_015_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0cdc5dafd633d50df41ff285bd871437db8728f1caaa73314eaa1640e528dba4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_016.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "de3749b5753437e608bc195628da0fa5ce0da89e76c2132d3e018f5739c41437",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_016_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b27483dde32bda70b31839032c9e43680c6f6cdf6d5c5c5f4152dd1f2830637a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_017.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9b64fa1ee2c3fb4db7936f76d0235ac0365d12179777a6f76e54ac88e9b86cd5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_017_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b0afe09755022e79afc0f6ae365d4cbbd7d4a3f6a57b7aac3c7c54441eff7213",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_017_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "482b310e0361dd857975142c90ef502d3def68f089d02fc6e121e4114e056ec7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_018.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c220207667e28d8d0bee3ca283f83e465da3c4ea734dbbc27c813e8be4a4a237",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_018_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "91a2ed1ef0f858e03295a0bedbd3bc32f6980e1b07c3d100ef4af8d67aed17bb",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_018_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f0abf1ac924d554d566c448485656953e842d93c5d94e76e385664d7799c536c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_019.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9b496b820c99249c7c932f3594cbd1432b115fbf8063cbeeafa7418b0b092fef",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_020.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c287f413e8e8fdf43bcc31cb4bb9ba2f50b653fc063755731d95d8e430244698",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_021.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5026e2fc6d6468392a94fa77d9d73cf242c388a3320c958cd6f6f48a83acf919",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_022.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c58700a39f846bcd91066b4c774622dbf25b748f96fef6ba889f04173b7836e4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_023.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fa2a84c9053bf32a7412ac2780a26de4622dab54e3c1a7edd77820e4851030b9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_024.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "975e92417cb54d1a9287d99c502d3f64aac21f3653e4be2914514a5e1d218284",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_025.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4b57236c5026c67fb4474811265905bba3e056df0b2553f0946ee635802f48d3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_025_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8bb28501056f92ccacd5534f2795408da9fee9dfb6b291cad2942f648cbc0b41",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_025_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "913049385425ed8a1de7dcec48a5353b673c7acc9554a3cde17c6245aafa53e4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_026.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "01f442c6dacf19e1e54b5afdaa619c3b221c03cd5734becfe4a3931877469dc0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_026_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b7643469078a36f7f140a54cde137e7f7679b8720f825465c54ae5e1ecdbd14a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_026_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "02e8abbc15f461e01b3b162c4dfa0fbbfc79d199dcfb7862b57004b3517b6b6a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_027.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bfe8b0216d22e1ee359d101c0a2ef6017607ff47d87f7b0f6659bad7b94a9970",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_028.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f45669de94d422ae12ea454ec175dbadca171f5867d9be770eef968d827cad5c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_028_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fb138b2fe04843d1fcfd8066355258ca199f4d11b726981110827279b8de53b2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_028_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "90a46d7b6016adb37e5d1da6920009dd3b6f73fa69479ec05a11c3445e545c19",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_029.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ac636f4f9bb0f7876a5e200be45680fddda58ea1f8aa631f3fb957bd800cf3b6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_030.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b4751866fc028082f589c665b4f2aeb9bffc422b26f8880a640e03cd4d93b69f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_030_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bf5469df403744ef9d82b9a2118463ddcec114fa628b8359b0b5a91b3aea46f9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_030_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a605cc15d80b08233253b8cd7d45095f6eb99ad71209bef9656bed2277efff00",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_031.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fcdad374ff413d66f509970f98d725ea1dcd14cda56441ba2be6f9a660825941",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_031_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5cdb54ae1003fbd81f516934454a8630a8fe6d329c88b983eb3a998970ed3456",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_032.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ba493c0a4edf0aa0c13fa3e21070a866f16603e38a0539094cdcdf1a4417b52d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_032_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0a2031683637e8d4281140e025a14544e48ad4d87b3e62d806fad6d280051d6b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_032_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3675a4a2614339ea1c3954bfc65995ef7e202f0a06559804754e9109b99b37da",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_033.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fd2b1b069f5207d5fbba690a8bd7dd946101442a9c6ec8bc337d0de63090da51",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_034.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "131d04a4ca9b8e18dda8448b33b722dd5c8de8f2a0c8b77356730a6b77e1446a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_034_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "794e4f3eb6b734217a86b363d44a1e4d955caebbf3d82ee9c03f6d3406b46e61",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_034_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a566cb21375774a6a9e0080fdfb980be53a38b35d72cadd46642d011deffc2ba",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_035.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "206cf62ee323d9cf479680604807eeada411062b9064617dd5304b3592440718",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_035_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a63a1d61b7c9d8d60e8a36c60bfe4e73252f2264257dbee318f036cd2755203c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_035_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cdd4caf608e360d5678e637e6169af92700b1555379f55b06469a90ce22fe6ed",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_036.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "95dfe1d7f7c2da1c69dca32681970d951896b7009c6f769a771df3586f7f9b4a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_036_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e63bee9d9f095bf3430b487037a0962d624bc3a8647cfff233929edb756f18c9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_036_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8dcb6d6d794f3742f2f72ae0e63b22d5f9a73d8137ea95bffdc9beb949615ae5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_037.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "98f320f78127a0df0310e4f554a7efc95a0aa531eae5b8925037f195800b502a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_037_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "043186b9a9a3c241f799728ea39d68c3e6c34c6d57fb73eda2862a2c70c4f0a3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_037_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "02c45bd815de8655f029724ec569797963295a5e88b5fad6534c82815725c284",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_038.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7cc4c1efe8f4c914fda354d046d418ace6f92b3e8c62c947d45b48d4e814fb7d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_039.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c0e60dd8e2379a6544119354c0ea5ce6378dd0a7a86e27f711da67bb22c80f3f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_040.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "27b7d8c7617a3d0b2af29aae7d5422de457f93243cdbc83b2eca443941ea5bf9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_040_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "401763d66937af3ed2b0b769c879dea461275c6a1ea5f1046285d16764857b42",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_040_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "47ffa21ef0d2817db6e6a0c8cbb23c83348bb1a2bb7d5f6226ddff744d62a527",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_041.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a17969f8def971bae0119f10965bb503827f7170ecb10e1aeafbafe177a31107",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_041_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "085e48dca67cd5b9fafeba20520ef5938e92718559e5c3f57d4b8c4ce2d44f77",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_041_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d4918a71d0ae1c3c36bb3e65bdc7d518c98bc6a74388614820929d650fc5241b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_042.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5bb784103a111c14b71ae69225e57cd1373aacabf2002eaaca1de015711ec3b9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_042_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "99b88073ddbbc1000f02d7c3ae0c3a6d811e0d3f58e151365428b722c2c01919",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_042_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9a97c5078127692f2146c7a355b4a00dd5015532a6a742ac3b7efe5d5106556c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_043.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f173c347923658a0a984ae68dc545ddf88c87b4c9a2b622b9ef16f217d29f7f8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_043_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "927f99287181aa5485168d6668204d0858d3724eac05e356b4fb8ea28f840f29",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_044.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9a0553e4fbcb51dd6fa0960522a28be23dc1eae31f32bb65ae9e96dfe92dbb59",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_044_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "01d85f5b9ec83db7c8f595e0395b37a806a2d546b884b509aace58aa055a2915",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_045.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "78dcfb01260799aa8e1eb4677a222d612e428e620713dab307c28f244db02691",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_046.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1354e1b3480976d92359aa454a8138d3fba1e9743b11e762dd9251b00de4fc12",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_047.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "34f86c439bb4a63e85fcef2def2edae3ccc7d73dd4cc376b9bcb3c223f7964fc",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_048.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0d820df811f09441c8edc5cc2c5258edecf2d8944046d0742bd0140b62f6905d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_049.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1d22e3a902d3ace268ad4e6dd427bbff2267bbf2ea710c442c5043ad065890c6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_049_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1f59d3c43b8a914e3b5ebb5cfb3088f337dcde03f154167a215ad3d3ba988905",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_050.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "983c56784737dbdf1b1646ad80c7c95dc52224432317295134691fc23dcfc913",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_050_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8c7d54cf2dd51bd8a951ad1ae4c2fba4dc8e126b231848a8592e7b54b1b7baae",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_051.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "02d6a305471dfbca7e22f8a7a93cbe270f41d9978e28144be5cf93482f3fb30b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_052.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ded3276a35ebeb9be9181f5d7868912e585a205c00c520ee7aeb91315bfad2d8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_052_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6f37a39ce2636494f8047687ea6ff8698b7be5818bd224bdb53573a0b4275157",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_052_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f49ed3fc6e5f905761cef406f44733969fa2bb0d11f01005e1d684040f5a1b0f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_053.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "61cfa752118e508fad8fdfd5071b87ed6b2307855dc48b2f78a5f5464fc2adb2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_053_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "46dd3a993f77c98bfc7f020a173bb81e3248030bdbc27e09d95951b53c1257c3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_054.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9959aa2ff3bd1bb2cee4af2eee21fac08fa70df71f2c6008e484a08f1d7c7a43",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_054_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8c2f6dcbe6170372f733cc8462d3c53b008bdf47f1a32f08873e2bbcce78718c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_055.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bca0af1a812c874082af99bd61854fbeab9432b2a3863319042cbfd81536967c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_056.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2977da8aabec81fec5f251fab6c855fe791fdf3f9ec701aaa3f46597e6a35965",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_057.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2984fea87214114385c06683ecfaa3c242afeca40ae5f2221509bb382448e305",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_057_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "918466bc84a560136a60407ec356a58355d24892ac0de363e19d7c3e4eaac61c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_058.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c274078582148970ab431486118c9eee31948b679ab93c8a9f8860ce8f97bfe7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_058_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "13eb09d09fd55b120c7d5cd6d18a3d6b93b9977c275477b8839240e0fd336483",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_058_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cdfceef2a92074d8d908f3273e9cfdd84d6446dfcd947f13a00e02975a43da89",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_059.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "223553b29acea5da0dbda795a59c6af1b295eec3012f834b73c5d9533ac755b4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_059_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "dd581df8186671ac6edb1ea898100605b277cdc9b03a168b427bd58c125bf18a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_060.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "98d514d6459d4b2da67b80db4dc71d0e1fdfa83045b27c52a6215d826cea5d0e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_060_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "61051ecd069f41adae0c9639a74ec132790ec0499ccea805f034cfd342272bbd",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_061.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "54bcffd2271af07acccd6502c352eabb294bf2a6dde86063edb362faed0ea157",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_061_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f52e091ce4770e41ac9169a23d1d8825bdf408aeb2c896d27a607bd9d4c387cb",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_061_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "980b280faeaa2ea35d1d595a0383cf34a4c061e9de626ca7958a6628addf4c14",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_062.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "53f030c3d5e4c6ac62e7be7ebae8f756781c98d0075f8b2c805bd472b1ffe4c0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_062_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "96ccd9b1bc77a0b235b542467819711aa6bb2f7464ad89a8e352315d18ed726a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_063.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4b4fc85248445260d08ac4f2cd0fe6b3cb11b72a0117e5c00d48a85373ecab48",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_063_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "60b407fdc7f8f8593811dd4a6ee611982303788d9442c1e329f01bf075f3ab24",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_064.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "195a4383286cd457b19c7bea4f8b5ae181e00b5f824c9d18b5d1d4a3318a9360",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_064_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c86734df2277a7da6c9e6f1142f3dc56a422bcd3c013f128fba8319240c180a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_065.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3f550444cd5757d7a1576a96925a06e0bbfbb068275a0aa008da1a1f59436769",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_065_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a5a889d32a3cc63d1afbfa49d0014d1ffe557b40836b78320bd9127575b7219b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_066.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b9c0064dcbd5a70b7067f62e5c6bdbc78c3d954e24ebdda05b632b741d853caf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_066_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "137418fbf5bf70ca506bc2387fd83f2f5e3f08b7a939eec8c4ffe2c5130c7a64",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_067.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d0576ff7debd0c488435d5fef9b6cbdc65d90fdd8c249fc8dcb52fa48cd10627",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_067_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "db4aafa945254e255505400f7205d50520a39da15bdd3c90f5f6b5c6b7efbc46",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_068.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "947ae39a44b4352d66a272f83906409a35ee5273cf11235fa0864750fd4829a4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_068_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8faa83ef5d60d248bff4b43ce13d036b5db799aeff35f0113b4aad034a479d04",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_069.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5430b42839b91e9c8b53a2418a763861b39fa6c131e271dc008e37a2413b5053",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_069_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "42f87c0ae05d92f25df931a5c979cd6a7d35c1d9cfa669909d6096f83ee12c18",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_069_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a3bce7415cd58d5965ce1957e38495bcd5e8c587b04f4993b5077b7bf084202f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_070.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9aab2c81331971117ec894b4adf33bbd88d3617a23304bb1531b0ae886b8b9a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_070_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "798d8ebe2fcc96a274d0c8c2705b4f35ac5237eb4ed9106d2d19766b5151bfc8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_070_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "88fd5f12ac6bd30b76e2a421759c1a1e5a5008fa6fd1d5d29098edb100acc309",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_071.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "56d2127ee9afd952079ad3186b4b645ec849de369a264159a1d5aadfb4d8a85e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_071_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5b31ea4b7a970513ad7c712dbf6f224da9d2696d9a186c721ec4273c3595683f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_071_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c7137ffffa70372b0663350c71251b3906ef0cfcba850fffa98bc737441d7f2d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_072.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7bff96027d991b809e97b919a10b8dc10ac2912fe4721f58d59f271e070cde4a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_072_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "baed4dede329896339cd53f522b555a2ba50af05534f13682ed2dee02c082ea0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_072_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b8e6c6e287d1cdb8b07b253775e043130e192c01e3be6d808780b4b06b51d4c0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_073.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "256460702e5503e3e422aab6466bb4edf0c79ad39c1f0aa737cbfa81386d1e50",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_073_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "292de8a2b826eb65c25beadc628f852a6fe2ea14483232166cf580294ad1d273",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_074.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "966ab6854e700ac188ea39a4695f041b5e66838e0421caba74683c7e7fdfbfa4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_074_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "90d1862d96d72087ca7a72e328ebf74d42a4fc03d47ce44b6b59c8c528273b30",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_075.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6238a462fd1a6e1d2cbb4465541abf4c7dd5078400eb0d74459f577ded24a8c4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_075_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "59ec61c763dcede57f18a05b74746705f9764b9adb9c6148630c8815ae1606e2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_075_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3cdb70b5df83ab38f21a4bd2fceba6a1c1bb108ae93601be130ff793828cc3e7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_076.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5e2f40e3f4bd3ec43204caebba3038d44d88371d848c80c4c7bf925052b3cd3a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_076_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5de806da27ead105a34818ac113ed5d09878a66df0d475165485b9ff75610d04",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_076_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ee853e6b6c6b72264d0fbf04e591574d9e7dfedfebf3dbeeec0c3766fb4dc29a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_077.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "55601b26407b6a29ec2994ed7770eac84a334bb6cf02a69f4b9eb586ffedd3e5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_077_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "25f2c85c2ba4ff68d3632b62d640bae38c066c23fec86ef72dcdf34cf4b8bb48",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_077_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0543580c5e8b9696d4858ceec868cdf131277651f47f944f7b0eba1f23f64f1d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_078.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0355cb22367fc2fa3de03594f33de5f7265a212b9a352cf3887f8040cf798847",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_078_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a06057aee37d63aca2da73b5ff34543209240c9ba839df8e55fa2d487c42192e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_078_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "89aa1af9d4f1d27fd508eab404c6575ef420ee5a7508b54bfa8d8db00aa3fd16",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_079.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0a636110ea0248968a37e3c9922d034118ff2a9e60bef6cb182ad0da83f52784",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_080.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e06c2a056504682858ff329fe1083364ec97d7b86fd0cbcca17ee7907300a71e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_080_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "063bf1207e0206fdb93ba6bc487fb5ee4299e6e3f07b805d503eec55afc55f71",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_081.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1c88a16bc9c7a4c07457078713fc0edba91b5a2b938ab27c907611ca4f2a3469",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_082.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2198c03515ffebea0de0a060c0e20674f0a48d0d85626f1e6aaef67494570187",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_082_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3b133581a715903f1b13f412e90efe2d0cd97b3b437d0fc09aa48955037d8b64",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_083.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3a6650499a7772ee640741ca1a9025430295ce4a47c65a4fcf2b40140ba18715",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_084.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "39ec342dca9ae9f954a6c79df552dec33e6c86c49d94c51619460bc36caf9008",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_085.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "68cc21926859c8ab64e20bccda0f7f9126e391f6df7ddf6c4113ed41e468684c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_085_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a22933eda7ae43189402fb3eab5925ef7f3b714bafadb89729eb06dea5ba38d2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_086.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a691f36c833dd995e02fdce01f724be1b9f44e2f984d9a1f5715ec3955e6d75e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_086_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "332f0846dfd62b07686d53c351994e93b7e05502fa861c0dbac64e8546e094bb",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_087.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "840619c7e5c66e1a928122d2f90124f66e14b32e3043808764af1bb3e9d2f2f8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_087_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "867aeda1d4ee0200a61dd453b4b312f01e9857aa243767cc7a133c37f320db05",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_087_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4af88e3606b4132e6d08025e5d0d3ce66c456ebdb371f97026e0746501e69d9f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_088.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "29e0cfcae6545a6c200d4648c2b3fdb9378cae49a794c9ba2b7d0df53f7d9b26",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_089.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ea59c86d977a6fda8b698f22d9d369fa5c9f752aa945b7eded097151f464cd58",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_090.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3dbf081c966a3a596ff7be76106e47b44c059a2261f9a8d8e1b0b2e5897ebdf3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_091.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d0411a8dc93ea876a4087f526ff9850fdbe4450561c42c02019e51ceeb34c44e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_092.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f60ae8d5818be0f7be026b30d39bbc5f4946d05f97181b7bee4b2bef9e3ddab5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_093.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3f8638e707d5ca3d8faf8ec477220972dc962b497d82b657c0107ff1aa54bc21",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_093_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "03fd97705bb6c4c6f4e55c85bade7a5cb5ea91a114f2939842af31796f3a9fe6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_093_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d1c8852f1ee415643ec8cfb0cbb30b8ccc25b8e630712881064e77f65ad1b366",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_094.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "17c0440efe0d297c64df2fd189efbcd982daa0f0b05dd1b4f4701249e7d8040c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_094_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5a4e8d0bdaa77150572fa442ba7e1d95b7149f0d433d35a35cf3cf8ecb02a807",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_095.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ac5c58e66c6fb164d85d9b65f80aa37d78b64aee27f5f000b324b9c9c6920e0c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_095_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "488f13875fd9fe859abdfab17685ef5a927de08d9b6cfed283c2eca8a77ef922",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_095_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c1558d4ec16a07b12955827757b504bb91a2460976ad78a622484dea1dde800f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_096.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "35fbc5c8e817282277fb5114732ad1bf0951c5dc7b709e740e2bb4d0c7395c82",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_096_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "705ea692a7d3110ae3d4e1632bf851a04ae05c951261d44bd045ec50bcfe8267",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_097.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e6da3e6a4f2e620d2033f356cf9ccb7db8558c672465700cda3c9b7b6065dad9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_097_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "97f1ffa6e8174b9c54ab875489ff82e170d7c7d6e6583d6e12b0da4aafa1ed61",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_097_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e1b51d2024ef464511d3d3b0ed03d941958636740746d6d070f75e98e5f9b10a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_098.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0d4f9890adc3729cea71b8812c90a1ed0754bda515e088e32860cb2ed96ace14",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_098_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2de4052d2481a4c3ce7cb029ba6a811ebbc4361751382a66e07f76ce35a67d61",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_098_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f693e8a2f949cd264b16e5aa03149537cf5c30eea13c2c91f190357c662fa963",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_099.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bc58cf2fdc532fe7a7adca47fc707b4ac7bfbc2c524117dd34bf7c8c163d1dc4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_100.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "577f5092ebeb81b800e61d242dc9985d45e5729d40ff4f3c40620bc9e5416bde",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_100_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d118de2db8270cde771b16a51a7ff61ebf83e2aabfca422ec0e1fe0ceea3e8ee",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_100_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6ddeb12cb654ef8af4bbe5388de917051b5ebdfc3f3f88bc2f902331fbf12fa1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_101.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2ddc941dfe5896da473006d9c3a6153a6c63d67fa191e37bf44d16a941bdf59b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_101_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "11ebfd20d0f6f5e9e100f567ae69032f46792d8294daecb5e17918936954c072",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_101_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2c33c1defc63325387f92a03f86c424f4c0c85197b2871f950ad7e824bb29689",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_102.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "13b7874a6be027a881437cdb157553017c96c647f29189bb7630680cdc75718f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_102_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "da300dbe3e52f080ded2b081b55b4060efaa0b77db95fcd9562e9cd2f17f97f9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_102_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "82f531c5a7f99b8a6dfe5e5a3dd333c93e2795c39a80bc1abcd4f2cf902e009e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_104.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "022ac22b72dfc0d2a3b7c0d339dd5f4051ae1f630cf27a090c9519d2c58488bf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_104_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c380de40759187ceb156024e8899103fb622b6913f135048d67c19face4abd27",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_104_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f02df79d09011811c5ea006b08c73ee81b30a4827570386f3005de2ff4a92dad",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_105.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "53614a9a840a99fce38853c7d88d036a3c7d6e4c7f3ca51d0d316207174081ea",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_106.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a8f5b2a3f7c8b008d86f42c9220acfdb1a7bedf3a565369b9bd74850f0c09706",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_107.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "97566a6cbef0500a586cb7e03cf504286b3ddf5d01e8255b42008d6917843d70",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_107_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d85392702be5e4eada1e16f82745b76b4a2afb17571d7a262829107796cc0c0f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_107_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "76392c2b43dcc22858671c86df49868f7651f67121f4f4ee7f436313f85db0dd",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_108.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8dc1772ae3a626c4f5fd74ebe909f8e0d864efa17e945ef2d3ddd5b3f12121a8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_108_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "42119af477be4dca5eb15f677ac1d8992e13d5cb121a771b10c5f5ae92e879af",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_108_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7c548f0cdab5d13ab5b853b0319d65849e888787829f9fe8e75cbaf6ffd6f8ae",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_109.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e21392602df59acac25dbab7bf0a83e41b5b5838d0ed741c2d942de8ac308d9b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_109_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b08f086fa71b67bc9b1757bfe231cb5ca630bf827386062649fcf85b92f7af1d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_109_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ec317c6cce910b09bd86eb1082b549207a2d7a094e6ebde61144b1c5848ab590",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_110.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a1dc1a7d4c2e8dca90692488834b4c2c054483eaf76078dbf94d4cdd49de911b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_111.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f4066c78d22c01a579cf002c61c72de66f6e763e791cc8d48b63b33cf1c52ec3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_111_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7f3cbcb4e25f9730f6aff541a15be3432222aef0c2a4e77ae3af7663f598282f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_111_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "30fcd8abbb910aeb9c21b1905c0d1bb1d529ea01e34b2478baf7143bd47f947e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_112.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e35e3b342391ef06c4a86cafdfef7c34312f3658f4a577d32489e95d42382c9c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_112_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4177e4c0af8b512fea3cd5a41a4a1c61e5e369d9ea7cfcde8bd091323bb903a7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_113.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "782895c47d0d7b6b1294fb888f08c143cf00d7171840000438ba0cbc0f2ca0d4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_114.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8b8e41a154d392324537e79524dbf69a6b3852f9b0b05d160f9d2cac1e9b4cb9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_115.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7ec226ee99ebf304d6d5f22cf91aeb91144304b52c865145538087d741bf0a35",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_116.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce87c4922af3f63640e46b377efedf5832c131008a135436bb772f6889fbb5e7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_117.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b8f95228078924e1e4eb145f4516ed0699efd3906fd7f51d289c1d187b94c9ba",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_118.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "615a663b43b1bbc32f28c8c5be450d7acc771fd6c01dc367ee3a15de95f39c3a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_119.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "347e25b82d99d05d8a8d18dd371bbf9bf6bf4a2a762176db63aac6a38a6f9684",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_119_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5fe8d38378910e49bb351174bb0a192a12c2d53b256463939d565f6bc4770f02",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_120.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2fe644014d5bd1c2d48426661c7f95761e8602c0752bab4e20d0b3968896fda8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_121.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "223e2c75fe5c3f0d1901bef42a22b79f1a4522dcc21ee8f180e82913b687df5b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_122.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "70e2a3c070db8dd1a0f05f6dc25c41fbeed78bcc20a16e720e7ccc558870980e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_123.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3ab78ea7d5eee94a4580512c4e39d814cff70bf1f805258845c12fdd847b210d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_124.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c2720615619629b77498b62dfab2084fee2f657af7fc387f0c27a5ea7a184f32",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_125.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a99e6ac49da6776ffd909673312eeb754a073c9ca50930bc422611038e0a034d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_125_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7708f4ae5dd6765a41a6bbb4bac43d0c28835549c2ffbd07afae284caee6d9fa",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_126.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e7b28b5277a8cfdd024c420dbb844ce60496d23b7af2bad0a2e70b08afe3d415",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_127.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2c5134cdd2a8e49c49ffa1d5f8ef350be24c650bd0136018c8079405e79a4222",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_127_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5ede7b9c98a464bd4c0444a6c321e320647fd255bd70454ea1d539c2e00dd683",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_127_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1dbda86570d09475506ebec131c5734c6135a5c1cb3be6afa78675de54418877",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_128.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "871de8c73ae8d0e003acb467bcf22ed111fc51d92414bd9e5e3796b2121c8c2e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_128_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b58acf3a5e221e497ac350c08814c49bf0d442f0f48ca0f1dae33f2e1bdf06c2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_129.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "489ea71f47f1d14fd0abf2a2b4a08e39eb74a182da8553f4062f068aeb1074d5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_129_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bb745d8ead4a4c3d38416d5e1b54a38998aebeab33f47c0984252dbaadaf426c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_129_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "dd29134f24be592eacb272a92ab30afc5fe6383a2954d105218be12a687e7b77",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_130.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f51236076e74c931e79b69aad3a59b72ba9208223666283761c3a170d98b24a7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_131.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d578d6db65b6e61ca62adac2983ce2bb820e8478f93796fa32bc12c3a7fabd79",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_132.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "15d73bf48d80a918ac40371792fda6bea0e83577f72e828589b959d8a649c91c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_133.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0d640cedb40a907e6c87b690c0e18ca3a623b2e6770b81bae488c84ec92f3ec8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_134.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2175890be172a0e6b3b1ff24218665fb6cc67ee03878da09b6472226aa3045e0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_134_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c38173fdaa43e8ab7d1e30de8b7961e8112a3216ed822df88c67d6c32b2caf3d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_135.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "aba1d4fa8dcce32ed454cca6513d3a653d2928095a6a7ba47dbb0f9d9574ea0e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_135_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4cebd7740f25e6e20a94d30b91e2733fb112303fe19876694aae09df317d8319",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_135_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "718697396b2e34eb23d09e2948349449ced4d8c6780bdd4b1d560309b443e5ff",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_136.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d253150b05d834c06806072d423469022952de4703b41da13c9245c2350bb6e0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_137.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8af0fabbefa57c8b549d1970b5b972a14595ba898b7bf934a7205703bd0f44d1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_138.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8a4883ef1dda7607282d36334b89768e24ada8bbbc14cc341687d998627b523b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_138_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e969170aced31d8f89e35fd32add2c901c35880795c7ec02c5197cbaa0960e35",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_139.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bd607129d33853d7da3b01d03bd525af075d42e45b16840a457cf3baf330dafc",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_140.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f5fd6607c441140632f59daf389e159d2c7f71db05b429e93fb180f9e49a9907",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_141.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "371225a295a22362796e6ef57f55e547ab9d0e603510e7fc6a987650c2256715",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_142.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f67b1d72e15553032cdc31af2fec897601b45cd96af890040f89db3018e68872",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_142_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8f4c4960d49196f381e066f0a1068b0b3b47f6522f2064a15286cc0096ee60c6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_142_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1f1907f1f6ed6fa0e1b3e572c1f2d5c0ff15ee87f40ed5cc7079607ed68d1cb5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_143.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f1a115e035f7c05b22c727fc77e3124e8e6bb37b203dac7b2c44221c4c43c5bc",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_144.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "358e7c1411a6f7abc2e43f2e8d74d37d251973ae4aae12c0ff9ae7125d083931",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_145.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "85bddbe4a7e491b80ed640923d47fdd219b37851083740df8989a14b9d4289bc",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_146.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6caf19e7a50ddc66c4e5d71eaeb8abb6d6eb5f7955efbda02028a25e3783705a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_146_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e8287994caef4a087eb2bab528bba373ff3c81ec1c3512493035c887e63f55de",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_146_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d970f1d4cd0ab3b6fd55aecc696bb5fab6984a9a4fdf719af7133076bfed55f6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_150.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6617d1650d6dfc7826cc39c6ebc9bcfd556aaf9a9f233d9c1b747d2bf52b2e1b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_151.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05dc97b6a1d96b186f16f51a87ca947c8e9ab0c73fe2e564d608b3969ad8034b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_152.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4851f480b9be08d3354f06c0addc66c7bc60f8a6cf00a118773b169f659696f3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_153.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "184fe43bba746314831ac824f267a1c0ddaf2c2da0eac12989e9d4b961fb9171",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_154.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "dd65f9cbde54fc7ad7182d724ab3b6558d3bd19285bdc8c49469231ff78bf5ed",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_155.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "658f84766cb5d77468ab16b82ea96acf420e16d89cccb17188fa5d7c3033d883",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_156.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "661634ef18552dfcaa98926ae0fbcb3528eaae8b499f57c0d5186dce17e9d58b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_161.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d2ef125c66745ced22d8f9ecc0439425b666761ca51c1629e4fb3406a2f6daee",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_161_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "99bcd6dc00d71aa75e094f598a4143abef3823eeb42d7d605177e80bbe2f6e3e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_162.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0c426721e497f2b85dfdea758d3d7c89226f3f04697de9e6aa0320abaaa1ef04",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_162_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f995548a1ab021019212be90186eb3a590a96070337ea9ac727d13510c67430c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_162_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "46cedd3131328ea477910aeb72cc40af90e21d071dd6578b34c6d22e97cc5947",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_163.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "22c11af91bd7dec4b362b31c20508518959967034b139348138c9d6f2e143d5f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_163_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9f079e5e003640b193064c994c91e5c9287b6c6b950be247bbb2e07739198b9d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_164.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4a4535dc6ccc1318936bde3f121a4fedcabc50458d99eb3c5dc864d83749b5e1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_164_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "308549bd80226374ce4c04a9df601f018de4716204f91ae8c22e0ce144ecf1d0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_164_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8cf9c9abd67957bfb50a55ac7364a96c9201fc8f5d17190ecefa2a4b11451bd4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_165.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "766aaa390d946b68b51883ae3fe54b572e624a02876971cb43e82252974418ad",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_165_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "388d047728814266b097e595760403167e8d04f735412be69571710aea480da0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_166.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "be713ae42f14417bfb737775576ec1709330102ed430bc7044289d094e17fdcd",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_166_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bc8d97391f08682b5efc9a5e2d51f37d3d77468dd7c5a065ea2522188f3bcf52",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_166_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "24af7d69c689fcbe6697559dac12bc08737749fe1a8787edda0cc76668a50dc6",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_167.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "6678a99f27d573e104781ed13f281ea877d12fc23ab7a6117407c63a726a913d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_167_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "15c81d6e57c7cd187e2f42dbc7305a9abc084958c23b5982661263a32b6be8e2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_167_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5ac0d5dc6fb73f133c2113cf193a0a445c9a410000eae89aa46634ccfd6235ba",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_168.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4ea4baf5a63f1795901554ef9de4f436da899dd6ba061a4c81ff1392fef0b0b4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_168_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "41d10fb0dbfd441a900e8e8aa063b6eff5749f7d08760f28d75a9f2f03e4bf44",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_168_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "abdc1d229a06c076505fb634a2a1549d4be63c9010d3a03475990248a8f3bf57",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_169.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9b9df1b90f846d0b446d4ca7fbc1f886393003ca97c6ffe8ca9c42a7650f8642",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_169_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c7ec265191672aab2a0a5f24e2bfdaafca41b4a013266d244e9209bcebbe5f1d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_170.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9623741eec08ac0fdb2120200065eb6df5a0fc15d78d34a7b861492285f3e539",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_170_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "58e96c63c521cc8174d267746ed8e307c4b049f1093d2d604ddff1d7979fa22a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_170_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "36f84c8c597285f9220c4b3e81db03ddd03bf08004d76ba88499809673b62164",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_171.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "36c19ebd51da0bf27c09490f20a8953d77e7d29c98982f5df9acb5f60c487193",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_171_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8420b20054988d8ac8b98adbd4ef9fd4873b9ffe07fdf6c1f3a4df1bdd7d6fc7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_172.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ff43fc87fa290db0bd1d544b6e4b8e136331c4437e6f8b74119ed5fc1bae1f9e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_173.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a170927397efc0e3ac51ecd51f00388af8cdf9ec8bdf5939b5c1cdd9c9b835ee",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_173_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3d2bbca056793eb74a9d04454c3bce2c86fc287b494650c9cc62dbf673cf92c9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_174.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce79971d45bfee3cf8220820521bffc0b9bfc85d3caeb6a8b74a9a61f801d11a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_175.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d308648d4098e00779cbfd02664ba37186d5e6f43ff64cb55c483f290a3cc353",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_175_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ccb96602f374683c9db1d2efc2d4fe75a1b12a88358ca7bf35a180b84d6a6804",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_175_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "81506ea1574ac8d43989cc452a888580245c0f6ed15604fa319ae2565815e388",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_176.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "aaa6eb033fc88151380301b4c21bd419d211d1d76d80cb7934951e826737866b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_177.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "30ef2a5c1c6c7fb509560c6f52621e2fa077b734a49d5159980cc0e12f27d1b3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_177_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "db7361cb35afec991e153ac1f7c1e23e390bb578b9e7ddd79d19f1e07f9012f5",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_177_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bfbb8b6286f20759121b4e030652e9abaa457f7950de38b8c8caa3c3ad68b83e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_178.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3537406f6142dce2dc12fc18dc317a4624849245f85d061fc7ca9c155256b9a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_178_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "580a712278e1446c349bc8c3832c9370081e1f0ec76bbe36e2bc7e6ddea64917",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_178_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "74726998f1e3816885aa9076171f5e1b174a6b4197d21f376283d7270ff23454",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_179.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "7ed488410b61fc6e264c1461f3751b881bbc946a686bedeccc0b54971908b445",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_179_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "00572969c3beedf08cf8a2c4d5a1b1469be6414c1c008615b4fc93395f70e4e9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_180.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "fb74a1f2a117ebaddaf5f72fac52aacc347456fa98ce49bfeaac53173b990477",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_180_h.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2754dcf7c6c5fd1b6bb9481306371acbff5ff0a26d59232bfa1e0547d810750d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_180_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "362480df83b7764909f73707526e6da216cdeccb8fb92e58e21f56d5cb4d844a",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_181.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d9a374b953722f49d263a51780c0ee77a8499eab9c288a5179736988bc97ce92",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_182.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5f2dee2aeac8ad22ad131a19a7ab0e32f02ff4bdeebdec1325c0f2cf182059b2",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_183.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "93f551ed058018e2b12a344a2e2e8dd0fbd763bf13464ea28e558ca36c63c953",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_184.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "eca732d42d89ed1cce719af5058df1d0830b13f184db45749d5a9245ee2d6814",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_184_l.geomhkxbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0644473ab155c0e52e9660f3b60397968120677852061a73ceafb35483e512aa",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_185.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5064deb682f233382c6186ccdbbe024814cd9101888f7cb20aeaaf1180af5827",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_186.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0053ba9043b3e83de894e522e2735c7b8fb78128c6ba3859c2c7fb793f4cd65e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_187.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "06b46f2a728eed8dba1911c3babc6381372ba8c4e9deb35f52de65f8a8c9bf09",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aeg/aeg046/aeg046_188.geombnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3e31459864135a97df2a797675e99ab994d22e30e4aaf8c03013730d7500d94d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/asset/aet/aet046/aet046_006.tpf.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "943548c24653cddcb9e2f3f6be71b80eb7298ee5512c871fe71d536f5e557a18",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_00_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e47abca71c9704d2de57d2f09c9126335f9f4207cb95908bf6f7c4fe48e78e7b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_00_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a65b5bc875a6ca217703275ac0cb92efda3c848c056b03574f57e56bb75eed40",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_01_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2c0fc582540916c09221786017168295b94ad6158cdb8c2fbe2e526a8cd2a691",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_01_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e98d966da3e7c1276028773e2f0908f22d2ff55d069608425bd4f18cfe7fea77",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_02_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "37744deed6068c3ac3cada1f46ef4f12c767a69da6ab7b93709c8710c0df0077",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_02_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "65d30404b74850a478cc2c30a95592da473877fa8ba9a0fea8b23c9594916d02",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_03_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cb74d58e1443aabff63f9692a74874bbe6d015239fa75239a9b897884555c175",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_03_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9ccbf72253049e7e81af44ea59fb8572c15a2aa1f96d5d8428c50313660e4a9d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_04_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a461fd695fe89f23ffacbb7c98577deaff2aedcdca1c7fa307bb9f5ae37f3b31",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_04_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "83769432041b1e992e4c2a5a785f2f70f0454ae847f433e79820fa74189d4c57",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_05_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "dc905c8c4784292705e63cce9b7211e66da5b6bf13b30508a0a2e4be78df5f8c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_05_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "aec8dd882deb36919050a2832906c7c59395b878cb378090407e7b2ace2d651f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_06_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "35509e1f165e82cb29d0bfc1b005cf36284fc6ee11428365a3d1bc8eb3b28c19",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_06_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9b9b1eef97710beb8a747bb79bedce4f2400c07e91810e182d5f0d174eb989d3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_07_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bdc90ffb0b2370457df35a479ab666d77ce91196d3753fcf192443378f3ad96e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_07_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e15c7783572c4d593d3bc6ce972b915383cde02a657ae760cbe28d54af9e4c6d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_08_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a204ca0d6d0067649fc55575146caab0d32b06bb89f2f1cfa1c07d6c542be7d8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_08_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5bbe26be68bc8b0ec6d9735acd1317a5ecdb7d6d97cfcf4d3d8769f67d6ec54f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_09_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a461fd695fe89f23ffacbb7c98577deaff2aedcdca1c7fa307bb9f5ae37f3b31",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_09_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3b91c6fa3e3575237f546eb85579bf2ab879622e6079e26bd538b6ba7527e24c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_10_00_00.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e2373686fc49b4a6785157566ed0e9d1761426be32d6cf676f1ea68f322b403d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/MapStudio/m46_10_00_99.msb.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_00_00_00/m46_00_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_00_00_00/m46_00_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "cc126c911a5e77c0f06bef686f5b042bb4762dfe38f9f9d59b856f9acdeb82b0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_00_00_00/m46_00_00_00_009999.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d8afb84e27b12c4945f00740af7cc9e90e246ba8f452b4f646408c4414b04f6f",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_01_00_00/m46_01_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "04e4cdffc8abd9531997b374c9b5c2fa1e279e1127810efde2cde2a6875c075c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_01_00_00/m46_01_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "788a396b4877d8e18587263063bed9a8881ad272be54cf5faec874fd2be513a8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_01_00_00/m46_01_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bed149a1180e80a5a0b5a2e5d749dc9762532cc61e2f7487201a1ee7c5a24012",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_01_00_00/m46_01_00_00_009999.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_02_00_00/m46_02_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_02_00_00/m46_02_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "9efa6ea97af545f06de7454f5e9883c1cbadfcb28091d559ef0a55f563ffeab4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_02_00_00/m46_02_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05389daf58a7a4ab860faaae56eabf8c7ca9e4c936dfe7dedd82b1b4ef8da0a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_02_00_00/m46_02_00_00_009999.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0a3bd16b5f6a80eaa98fdbdb77db810992c732dfe46abb9f11e624fde9a9b189",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_02_00_00/m46_02_00_00_434000.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_04_00_00/m46_04_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_04_00_00/m46_04_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f71b96ea4f72d6f29c7195aa0a57d7e3710ee3b8e30f9c752b620a95760785bc",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_04_00_00/m46_04_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05389daf58a7a4ab860faaae56eabf8c7ca9e4c936dfe7dedd82b1b4ef8da0a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_04_00_00/m46_04_00_00_009999.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_06_00_00/m46_06_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_06_00_00/m46_06_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "135d6ff19378901524c84400a6a0c6ab6ee96ddfc8fec35fcd0ffacc8524f658",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_06_00_00/m46_06_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_07_00_00/m46_07_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_07_00_00/m46_07_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2174f893190c152e9b010dbeffa21e77fdf7dbbe7b3368776158a2deb3b7a9a1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_07_00_00/m46_07_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_09_00_00/m46_09_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_09_00_00/m46_09_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0a1a6ab869c787156f4d19c93eea9a274530d61a783992d5ab0dce50c8029ec0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_09_00_00/m46_09_00_00_0000.btl.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05389daf58a7a4ab860faaae56eabf8c7ca9e4c936dfe7dedd82b1b4ef8da0a0",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_09_00_00/m46_09_00_00_009999.mapbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "417fbdacfe943cfe7175cc9bf39c68d95003cd56ae49c3da91beacd173936492",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_10_00_00/m46_10_00_00.nva.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "05726ed039ede00e2fa4465ab502b8aa7b20b63c97d1dc70aef832a47e704baf",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/map/m46/m46_10_00_00/m46_10_00_00.nvmhktbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "e06da726589455bfff976067fe45fdb8aebf62675febaee561e889e06e14b59d",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/deude/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "0291f1b1a073d4b1c332c18e237bcac7a1123ffa20816eedf4a2b9d0ce3430d8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/deude/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce2761557e8fa1ec1eb933020461bc040165df2ef97eb6bedcb8dfdbe3d4a605",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/engus/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "51ca97c8d84d1ad9eee60565655ef4c5faaf4b61d0af27b9faa0c90427a34f52",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/engus/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3ef30d509790d312d6f91cbbb44e602afd435fc0ad8f5007e1dcfa1eb96915ab",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/frafr/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "bdbeb371520247d0de52d94813c2c3649f2d8bfb63f7a5176196d48f62b34727",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/frafr/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "f1ddeaddaafc9515381240204f939d38ecf1c3d9c198fdc705da08f7841ad675",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/itait/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d720b2b12588a3cad5a583cb78a9f4c77c87fb035b8e7281fac8fbf94e49e483",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/itait/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "40e5ffa4274adc55907f8284687f73b21a184dade134e6b1507be802b90593df",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/jpnjp/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "5a17bdcce06a22075885b101817983940eb62e2b21706eab1dd60c8744e2f56b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/jpnjp/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b064b6378d2a1e64f2ce2cf17bf5904fdf0a4cc5a253002925985818fd5d30df",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/korkr/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "2da52a535c89a642252d7b10cae4658d875370d312d92850b973411fc91fb5d8",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/korkr/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a78231f1af7cc81b8942169251cbf9c0cfc5f073ac7210f8d0bace07d5aa8084",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/polpl/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "930b9c6aaf6d373e63039c8dae2be72723f4171b6b6fe1128499dd4cbc3f69d9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/polpl/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "39fd8561457c21b9145e6b7fb2a8ff4c24cb4ad5c082cf4922d11330d54eddf1",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/porbr/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "400133f5d5f2666d7f0d1845d5e4a7e6fe7348b9bc362c86f78ed2a9b90086f7",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/porbr/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "3722e3bcf1566a599beb184e9bd1e866dc39bcfe70ff54e29ba1849ded196888",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/rusru/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c9ebb466e7805d69e293ce991bdc33eb044c8fa1e754602746abd23f30959229",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/rusru/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b121e36dd99bbaecd42173b0984fa3801cd6fff2edfda4c8d242e7d6c4c50fe3",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/spaar/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "24aba3acd54c05f49d11ec11b66d96681be18a860bcdf5c05cd56f4ff545ce97",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/spaar/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "39bee903c8fa844cc4d78be43603052d00013cdac1d43aeb501f1f9db93509b9",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/spaes/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "1db8528eecfdbaf6300ace62b37b95aa6ccbda6cc6eae0dbdfbfdc8c121967b4",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/spaes/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "750d47c8f20d32461a2a7036624e4ecf3fb26aeab28eafd885a9526f683d248c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/thath/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "b3a02d082dc95211f10fb94849994b27a7f9732b0315775609ec47f5bf6ffd30",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/thath/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c483a54c8057ae79bcd0668cb274b4b9ee2162b86449397c16fed4a3af169aac",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/zhocn/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4c72d14cd3fe4031cb8e511a8dbf67c1961ff1ad551f9f74564913c816d69b34",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/zhocn/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "8450e0e961d60f1e8be9fdf84d8c43fd8e436dffc9a6ae8b39b63f136f6a8c13",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/zhotw/item_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "029e76872633f626422a7af01494376555857b787aa770e997b44c3962924bce",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/msg/zhotw/menu_dlc02.msgbnd.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d2998f33802dc25b68bdf52d622bfe265c9738b20090c3655ce6dbef55426897",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_00_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a1757c0dad5a1c2fbed5ba5167fb7cba60756978f1a14a817343f674b909292e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_01_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4e88a12602ef3370d6725941080b3e86767a2e96e084674cf0c20b60f84c6e04",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_02_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ac34f1d077faa7a3222ba9fc607ccc1b5763d2905547f6e561d061bfd828a493",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_03_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "babedacecade6d92bedd3612fc038f75fb0ab9af594256d8ec879d5913767322",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_04_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d2998f33802dc25b68bdf52d622bfe265c9738b20090c3655ce6dbef55426897",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_05_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce55b9c1549c5ab0e81798bb6900210b1e048d97f4261cb33aca09c989ae8916",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_06_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "76fdf805d23257aff642dee85e2d497a483f60bcab9fab0d9f5db52a74e12619",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_07_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "76fdf805d23257aff642dee85e2d497a483f60bcab9fab0d9f5db52a74e12619",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_08_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d1a41b3e4981e0cd25e672137f1cd07429b29b220948d38e3e31f006d500352c",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_09_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "babedacecade6d92bedd3612fc038f75fb0ab9af594256d8ec879d5913767322",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m46_10_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d2998f33802dc25b68bdf52d622bfe265c9738b20090c3655ce6dbef55426897",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_00_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "a1757c0dad5a1c2fbed5ba5167fb7cba60756978f1a14a817343f674b909292e",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_01_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "4e88a12602ef3370d6725941080b3e86767a2e96e084674cf0c20b60f84c6e04",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_02_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ac34f1d077faa7a3222ba9fc607ccc1b5763d2905547f6e561d061bfd828a493",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_03_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "babedacecade6d92bedd3612fc038f75fb0ab9af594256d8ec879d5913767322",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_04_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "d2998f33802dc25b68bdf52d622bfe265c9738b20090c3655ce6dbef55426897",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_05_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ce55b9c1549c5ab0e81798bb6900210b1e048d97f4261cb33aca09c989ae8916",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_06_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "76fdf805d23257aff642dee85e2d497a483f60bcab9fab0d9f5db52a74e12619",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_07_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "76fdf805d23257aff642dee85e2d497a483f60bcab9fab0d9f5db52a74e12619",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_08_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "da928577538ffa86f00bf207fe4042b884fd2ff850104fff9c2f974748cbd72b",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m47_09_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "ac34f1d077faa7a3222ba9fc607ccc1b5763d2905547f6e561d061bfd828a493",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/drawparam/m49_00_0000.gparam.dcx"
+        },
+        {
+            "Algorithm": "SHA256",
+            "Hash": "c530706f4b929876c51b200a2237bac4cc9c0f32c4bc79085b4f428c6a5d5bfe",
+            "Path": "{{DENMAPS}}/mod_files/file_modding/param/systemparam/systemparam.parambnd.dcx"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "Version": "1.9.0",
+    "HashList": [
+        {
+            "Hash": "E005B67D0D1D594E1E0571243C3F94ACC4E1BB7BFC48AF76BAD1D1A85B43368B",
+            "Path": "{{SEAMLESS}}\\ersc_launcher.exe",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "B67B3DAF20CB9552899972CD882D309E7B38FCF1BBF1A8BE630513F429F31648",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\ersc.dll",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\ersc_settings.ini",
+            "Comment": "This file will be changed anyway, so we don't need to hash it"
+        },
+        {
+            "Hash": "D799B428ECC200A47B08B27F6B33ED5FE1F1E065136F380F6A6E78088C404649",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\crashpad\\crashpad_handler.exe",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "C236C1AF8B3A9CCA01EF9305CEBDC09D4ED2F6B402E613464ADBA5575541C119",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\arabic.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "13478DF8CCBFF937C014697B76CC460156F9166AFCB80F7365EDA480D6A1CD2F",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\brazilian.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "EC17C0D6397FD6C289F6E107ACB9CE008FAA00EAC0226496990C3521E9BC1FC1",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\dutch.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "3201CFE2BB1B5922F2D85C7D8137E594219CE6C00862B7FC67FF7C5990552A54",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\english.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "94A66A166E8C6BDB3FE71331ED76B66819CA760B814BF2CEA1B5B57E4A04B324",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\finnish.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "0A57ECB0B17A438335C57CCDEA62545A39BFF85167A49DBA42DB8B8B41ADCD04",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\french.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "6414B0579EEB87C86CD6A183FABB01C99ECA6FEC9C86EE56678B3D5319FE284E",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\german.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "3F356C51AF5F702C30720B3CC1A02AAEEEA2FC598067EA1EDFA77A22C290D8D3",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\hungarian.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "A262D1032E86CDED40B20721765C95B22244002D74353B3D8E71CB554E17239E",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\italian.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "15EA6651A5DA72B2291EC67A0104A606DEC7AF782E71F14F031BAAD0D9453B4F",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\japanese.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "DC2F29490CD9876C71208133F5010BF75E9DD1CE11DA8082FDFC678229B4AD8A",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\koreana.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "524383E05F8DC2AE41DEDCB1C1F520368305C5927FDCB52392E7B1EADE283D20",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\latam.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "50ED1E7D3409051669F413FCA44B5AFF11521B4068B31F83ACBB901C0FF0CF96",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\polish.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "E148BFEB86DAB7DCC247E163BA041477F85CE21B64AFCC3994369955C4216A27",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\russian.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "3AC2339272483D0A42E3939F32F48C9A59DE709D0939EA042BF04DC441320D8D",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\schinese.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "651CDFB26941A258A943C58E9BB509549D8D84471D19DEC31522C723572D8055",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\spanish.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "DB44409E4343D2CA4E12B1D0832962AA8CE82A9A940566F212AA89139D0EF539",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\tchinese.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "4318E9CF26AE5CE1E976A57239E4C0B07F9FF087711D83E91B2DFD9A0D494850",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\thai.json",
+            "Algorithm": "SHA256"
+        },
+        {
+            "Hash": "3CB83265D9D01178ECDABD806F98529E80B86BC77DD487656CC673606226480A",
+            "Path": "{{SEAMLESS}}\\SeamlessCoop\\locale\\vietnamese.json",
+            "Algorithm": "SHA256"
+        }
+    ]
+}
