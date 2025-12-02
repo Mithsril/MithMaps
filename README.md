@@ -1,4 +1,4 @@
-Use launchmod_eldenring to open the mod.
+Use the "Launch MithMaps" .bat to open the mod.
 
 Includes custom 2v2 and 3v3 maps that take place in the den1 arenas
 
