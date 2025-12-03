@@ -103,3 +103,66 @@
 [2025-12-02 14:50:10.168] [modengine] [info] Enabled extension mod_loader
 [2025-12-02 14:50:10.212] [modengine] [info] Applied 3 hooks
 [2025-12-02 14:50:10.215] [modengine] [info] Starting worker thread
+[2025-12-02 16:43:05.066] [modengine] [info] Attempting to load global config at C:\Users\basic\Documents\MithMaps\modengine2\config.toml
+[2025-12-02 16:43:05.066] [modengine] [info] Attempting to load mod settings config at C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\config_DenMaps_1.7.0-beta19.toml
+[2025-12-02 16:43:05.066] [modengine] [info] Local config loaded
+[2025-12-02 16:43:05.066] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-12-02 16:43:05.066] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-12-02 16:43:05.066] [modengine] [info] Main thread ID: 22612
+[2025-12-02 16:43:05.070] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../SeamlessCoop/v1.9.0/SeamlessCoop/ersc.dll
+[2025-12-02 16:43:06.444] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll
+[2025-12-02 16:43:06.444] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll at base address 0x7ff825cc0000 is not a modengine extension
+[2025-12-02 16:43:06.445] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll
+[2025-12-02 16:43:06.445] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll at base address 0x7ff82a040000 is not a modengine extension
+[2025-12-02 16:43:08.979] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll
+[2025-12-02 16:43:08.979] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll at base address 0x7ff861160000 is not a modengine extension
+[2025-12-02 16:43:08.979] [modengine] [info] Enabling extension base
+[2025-12-02 16:43:08.979] [modengine] [info] Enabled extension base
+[2025-12-02 16:43:08.979] [modengine] [info] Enabling extension mod_loader
+[2025-12-02 16:43:08.980] [modengine] [info] Installing mod location mod_files/file_modding
+[2025-12-02 16:43:08.980] [modengine] [info] Resolved mod path to C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\mod_files/file_modding
+[2025-12-02 16:43:08.980] [modengine] [info] Enabled extension mod_loader
+[2025-12-02 16:43:09.009] [modengine] [info] Applied 3 hooks
+[2025-12-02 16:43:09.012] [modengine] [info] Starting worker thread
+[2025-12-02 18:32:43.627] [modengine] [info] Attempting to load global config at C:\Users\basic\Documents\MithMaps\modengine2\config.toml
+[2025-12-02 18:32:43.627] [modengine] [info] Attempting to load mod settings config at C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\config_DenMaps_1.7.0-beta19.toml
+[2025-12-02 18:32:43.627] [modengine] [info] Local config loaded
+[2025-12-02 18:32:43.627] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-12-02 18:32:43.627] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-12-02 18:32:43.627] [modengine] [info] Main thread ID: 23740
+[2025-12-02 18:32:43.630] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../SeamlessCoop/v1.9.0/SeamlessCoop/ersc.dll
+[2025-12-02 18:32:45.089] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll
+[2025-12-02 18:32:45.089] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll at base address 0x7ff828ba0000 is not a modengine extension
+[2025-12-02 18:32:45.089] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll
+[2025-12-02 18:32:45.089] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll at base address 0x7ff830ec0000 is not a modengine extension
+[2025-12-02 18:32:46.229] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll
+[2025-12-02 18:32:46.229] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll at base address 0x7ff84f7f0000 is not a modengine extension
+[2025-12-02 18:32:46.229] [modengine] [info] Enabling extension base
+[2025-12-02 18:32:46.229] [modengine] [info] Enabled extension base
+[2025-12-02 18:32:46.229] [modengine] [info] Enabling extension mod_loader
+[2025-12-02 18:32:46.229] [modengine] [info] Installing mod location mod_files/file_modding
+[2025-12-02 18:32:46.229] [modengine] [info] Resolved mod path to C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\mod_files/file_modding
+[2025-12-02 18:32:46.229] [modengine] [info] Enabled extension mod_loader
+[2025-12-02 18:32:46.259] [modengine] [info] Applied 3 hooks
+[2025-12-02 18:32:46.262] [modengine] [info] Starting worker thread
+[2025-12-02 19:13:10.502] [modengine] [info] Attempting to load global config at C:\Users\basic\Documents\MithMaps\modengine2\config.toml
+[2025-12-02 19:13:10.502] [modengine] [info] Attempting to load mod settings config at C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\config_DenMaps_1.7.0-beta19.toml
+[2025-12-02 19:13:10.502] [modengine] [info] Local config loaded
+[2025-12-02 19:13:10.502] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2025-12-02 19:13:10.502] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2025-12-02 19:13:10.502] [modengine] [info] Main thread ID: 4372
+[2025-12-02 19:13:10.505] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../SeamlessCoop/v1.9.0/SeamlessCoop/ersc.dll
+[2025-12-02 19:13:11.884] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll
+[2025-12-02 19:13:11.884] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll at base address 0x7ff828ba0000 is not a modengine extension
+[2025-12-02 19:13:11.885] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll
+[2025-12-02 19:13:11.885] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll at base address 0x7ff830ec0000 is not a modengine extension
+[2025-12-02 19:13:13.465] [modengine] [info] Loaded external DLL C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll
+[2025-12-02 19:13:13.465] [modengine] [warning] External dll C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll at base address 0x7ff84f6b0000 is not a modengine extension
+[2025-12-02 19:13:13.465] [modengine] [info] Enabling extension base
+[2025-12-02 19:13:13.465] [modengine] [info] Enabled extension base
+[2025-12-02 19:13:13.465] [modengine] [info] Enabling extension mod_loader
+[2025-12-02 19:13:13.465] [modengine] [info] Installing mod location mod_files/file_modding
+[2025-12-02 19:13:13.466] [modengine] [info] Resolved mod path to C:\Users\basic\Documents\MithMaps\ModFiles\DenMaps\1.7.0-beta19\mod_files/file_modding
+[2025-12-02 19:13:13.466] [modengine] [info] Enabled extension mod_loader
+[2025-12-02 19:13:13.497] [modengine] [info] Applied 3 hooks
+[2025-12-02 19:13:13.500] [modengine] [info] Starting worker thread
