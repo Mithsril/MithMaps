@@ -48,6 +48,36 @@
         "AEG070_056_3037",
         "AEG070_056_3036"
       ]
+    },
+    {
+      "Name": "tower",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "AEG420_536_6000",
+        "CopiedAsset_0498",
+        "CopiedAsset_0489",
+        "CopiedAsset_0499",
+        "CopiedAsset_0488",
+        "CopiedAsset_0481",
+        "CopiedAsset_0483",
+        "CopiedAsset_0482",
+        "CopiedAsset_0490",
+        "CopiedAsset_0493",
+        "CopiedAsset_0492",
+        "CopiedAsset_0491",
+        "CopiedAsset_0479",
+        "CopiedAsset_0478",
+        "CopiedAsset_0484",
+        "CopiedAsset_0496",
+        "CopiedAsset_0497",
+        "CopiedAsset_0486",
+        "CopiedAsset_0495",
+        "CopiedAsset_0485",
+        "CopiedAsset_0494"
+      ]
     }
   ]
 }
