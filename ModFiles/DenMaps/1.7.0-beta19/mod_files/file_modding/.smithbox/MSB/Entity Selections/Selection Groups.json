@@ -1,1 +1,53 @@
-{ "Resources": [ ] }
+{
+  "Resources": [
+    {
+      "Name": "pillar",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "Starting Arrow Stone_0052",
+        "AEG070_056_3027",
+        "AEG070_056_3026",
+        "AEG070_056_3025",
+        "Starting Arrow Stone_0053",
+        "AEG070_056_3024",
+        "AEG070_449_3006",
+        "Starting Arrow Stone_0051"
+      ]
+    },
+    {
+      "Name": "pillar 2",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "Starting Arrow Stone_0058",
+        "AEG070_449_3008",
+        "Starting Arrow Stone_0059",
+        "AEG070_056_3034",
+        "AEG070_056_3035",
+        "AEG070_056_3032",
+        "AEG070_056_3033"
+      ]
+    },
+    {
+      "Name": "pillar 3",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "AEG070_449_3009",
+        "Starting Arrow Stone_0062",
+        "Starting Arrow Stone_0061",
+        "AEG070_056_3039",
+        "AEG070_056_3038",
+        "AEG070_056_3037",
+        "AEG070_056_3036"
+      ]
+    }
+  ]
+}
