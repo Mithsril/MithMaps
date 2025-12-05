@@ -30,7 +30,7 @@ Built in kill all mobs script
 
 -
 
-Invasions now work with only other people that have the mod, invaders are now red instead of colorless like on seamless
+Invasions now work with only other people that have the mod, invaders are now red instead of colorless like on seamless. All vanilla areas + custom areas are invadable
 
 -
 
