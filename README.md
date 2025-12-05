@@ -15,7 +15,7 @@ The current maps are:
 
 1. Redmane Battlegrounds (3v3)
 2. Scriptorium Archives (2v2)
-3. Seaside Keep (3v3) WIP
+3. Seaside Stronghold (3v3)
 4. Dueling Square (Now has Crystal Lake arena shape) WIP
 
 -
@@ -61,6 +61,33 @@ Seamless mods now work, by default these mods are included:
 GG - Player List Overlay for Seamless Co-op (Made by tomclark)
 
 Transparent UI DLC fixes (Made by ShenDaiSword)
+
+-
+
+BALANCE CHANGES:
+
+Disabled Weapons: 
+
+BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, All Thursting Shields
+
+(Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)
+
+
+Disabled Spells (subject to change): 
+
+All healing and regen spells except beastial vitality, Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
+
+Disabled Consumables:
+
+Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestess Heart, Lamenter's Mask
+
+Nerfed Armor:
+
+Briars Set no longer does damage and aim punches, Royal Remains Set no longer provides a healing effect at low HP
+
+To Do:
+
+Remove Lighroll, nerf Golem Arrow stun
 
 -
 
