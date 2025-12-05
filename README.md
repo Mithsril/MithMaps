@@ -6,16 +6,16 @@ C:\Users\YOUR-PC'S-NAME\AppData\Roaming\EldenRing
 
 -
 
-Includes custom 2v2 and 3v3 maps that take place in the den1 arenas
+Includes custom 2v2 and 3v3 maps that take place in the DEN1 custom areas
 
 -
 
-Current maps located in:
+The current maps are:
 
 1. Redmane Battlegrounds (3v3)
 2. Scriptorium Archives (2v2)
 3. Seaside Keep (3v3) WIP
-4. Dueling Square (Now has Crystal Lake arena shape WIP)
+4. Dueling Square (Now has Crystal Lake arena shape) WIP
 
 -
 
