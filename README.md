@@ -2,7 +2,7 @@ Use the "Launch MithMaps" .bat to open the mod.
 
 The mod uses the file extension '.mith', which can be added in:
 
-C:\Users\"YOUR-PC'S-NAME\AppData\Roaming\EldenRing
+C:\Users\YOUR-PC'S-NAME\AppData\Roaming\EldenRing
 
 -
 
