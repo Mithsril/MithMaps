@@ -64,6 +64,33 @@ Transparent UI DLC fixes (Made by ShenDaiSword)
 
 -
 
+BALANCE CHANGES:
+
+Disabled Weapons: 
+
+BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, All Thursting Shields
+
+(Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)
+
+
+Disabled Spells (subject to change): 
+
+All healing and regen spells except beastial vitality, Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
+
+Disabled Consumables:
+
+Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestes Heart, Lamenter's Mask
+
+Nerfed Armor:
+
+Briars Set no longer does damage and aim punches, Royal Remains Set no longer provides a healing effect at low HP
+
+To Do:
+
+Remove Lighroll, nerf Golem Arrow stun
+
+-
+
 Huge shoutout to the following people for helping me:
 
 Molly
