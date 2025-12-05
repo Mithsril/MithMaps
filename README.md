@@ -6,7 +6,7 @@ Current maps located in:
 
 1. Redmane Battlegrounds (3v3)
 2. Scriptorium Archives (2v2)
-3. Dueling Square (Now has Crystal Lake arena shape)
+3. Dueling Square (Now has Crystal Lake arena shape WIP)
 
 
 3v3 features created by Molly include:
