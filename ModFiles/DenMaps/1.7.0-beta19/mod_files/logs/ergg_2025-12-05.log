@@ -30,3 +30,39 @@
 [2025-12-05 16:04:41.438] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
 [2025-12-05 16:04:41.443] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
 [2025-12-05 16:04:41.445] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 16:31:25.384] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 16:31:25.384] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 16:31:25.384] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 16:31:27.396] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 16:31:27.401] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 16:31:27.403] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 16:36:25.052] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 16:36:25.052] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 16:36:25.052] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 16:36:27.078] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 16:36:27.083] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 16:36:27.085] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 16:45:58.014] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 16:45:58.014] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 16:45:58.014] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 16:46:00.026] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 16:46:00.031] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 16:46:00.033] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 17:07:48.581] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 17:07:48.582] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 17:07:48.582] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 17:07:50.594] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 17:07:50.599] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 17:07:50.601] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 17:23:31.743] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 17:23:31.743] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 17:23:31.743] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 17:23:33.756] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 17:23:33.760] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 17:23:33.762] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-05 17:25:40.122] [gg] [warning] [config.cpp:105] Invalid config value "block_player = "
+[2025-12-05 17:25:40.122] [gg] [warning] [config.cpp:105] Invalid config value "disconnect = "
+[2025-12-05 17:25:40.122] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-05 17:25:42.134] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff613239478
+[2025-12-05 17:25:42.139] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-05 17:25:42.141] [gg] [info] [dllmain.cpp:88] Initialized mod
