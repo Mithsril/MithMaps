@@ -2,6 +2,8 @@ Use the "Launch MithMaps" .bat to open the mod.
 
 Includes custom 2v2 and 3v3 maps that take place in the den1 arenas
 
+-
+
 Current maps located in:
 
 1. Redmane Battlegrounds (3v3)
@@ -9,6 +11,7 @@ Current maps located in:
 3. Seaside Keep (3v3) WIP
 4. Dueling Square (Now has Crystal Lake arena shape WIP)
 
+-
 
 3v3 features created by Molly include:
 
@@ -20,9 +23,11 @@ An ingame scoreboard
 
 Built in kill all mobs script
 
+-
 
 Invasions now work with only other people that have the mod, invaders are now red instead of colorless like on seamless
 
+-
 
 Hotkeys:
 
