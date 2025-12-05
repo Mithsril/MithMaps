@@ -52,6 +52,14 @@ F6: Set Custom Respawn Location
 
 F7: Kill All Mobs
 
+-
+
+Seamless mods now work, by default these mods are included:
+
+GG - Player List Overlay for Seamless Co-op (Made by tomclark)
+
+Transparent UI DLC fixes (Made by ShenDaiSword)
+
 "# MithMaps" 
 "# MithMaps" 
 "# MithMaps" 
