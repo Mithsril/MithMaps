@@ -1,4 +1,5 @@
 Use the "Launch MithMaps" .bat to open the mod
+To change the password, use the seamless folder within MithMaps, not the DEN1 folder
 
 The mod uses the file extension '.mith', which can be added in:
 
