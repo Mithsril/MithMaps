@@ -8,6 +8,7 @@ external_dlls = [
     "../../DenMaps/1.7.0-beta19/mod_files/EldenRingScriptExtender.dll",
     "../../DenMaps/1.7.0-beta19/mod_files/DEN-Maps.dll",
     "../../DenMaps/1.7.0-beta19/mod_files/3v3m.dll",
+    "../../DenMaps/1.7.0-beta19/mod_files/ergg.dll"
   
 ]
 
