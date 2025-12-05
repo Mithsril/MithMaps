@@ -75,7 +75,7 @@ BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque
 
 Disabled Spells (subject to change): 
 
-All healing and regen spells except beastial vitality, Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
+All healing and regen spells (except Beastial Vitality), Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
 
 Disabled Consumables:
 
