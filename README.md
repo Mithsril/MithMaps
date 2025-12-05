@@ -65,6 +65,7 @@ Transparent UI DLC fixes (Made by ShenDaiSword)
 -
 
 Huge shoutout to the following people for helping me:
+
 Molly
 
 Hexwave
