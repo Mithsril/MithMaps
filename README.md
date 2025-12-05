@@ -79,7 +79,7 @@ All healing and regen spells except beastial vitality, Gravity Missile, Law of R
 
 Disabled Consumables:
 
-Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestes Heart, Lamenter's Mask
+Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestess Heart, Lamenter's Mask
 
 Nerfed Armor:
 
