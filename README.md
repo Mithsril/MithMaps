@@ -15,7 +15,7 @@ The current maps are:
 
 1. Redmane Battlegrounds (3v3)
 2. Scriptorium Archives (2v2)
-3. Seaside Keep (3v3) WIP
+3. Seaside Stronghold (3v3)
 4. Dueling Square (Now has Crystal Lake arena shape) WIP
 
 -
