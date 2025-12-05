@@ -1,4 +1,4 @@
-Use the "Launch MithMaps" .bat to open the mod.
+Use the "Launch MithMaps" .bat to open the mod
 
 The mod uses the file extension '.mith', which can be added in:
 
