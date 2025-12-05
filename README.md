@@ -6,7 +6,8 @@ Current maps located in:
 
 1. Redmane Battlegrounds (3v3)
 2. Scriptorium Archives (2v2)
-3. Dueling Square (Now has Crystal Lake arena shape WIP)
+3. Seaside Keep (3v3) WIP
+4. Dueling Square (Now has Crystal Lake arena shape WIP)
 
 
 3v3 features created by Molly include:
@@ -34,7 +35,7 @@ F5: Clear Score
 
 F6: Set Custom Respawn Location
 
-Insert: Kill All Mobs
+F7: Kill All Mobs
 
 "# MithMaps" 
 "# MithMaps" 
