@@ -5,7 +5,8 @@ Includes custom 2v2 and 3v3 maps that take place in the den1 arenas
 Current maps located in:
 
 1. Redmane Battlegrounds (3v3)
-2. Dueling Square (Now has Crystal Lake arena shape)
+2. Scriptorium Archives (2v2)
+3. Dueling Square (Now has Crystal Lake arena shape WIP)
 
 
 3v3 features created by Molly include:
