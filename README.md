@@ -89,7 +89,7 @@ Briars Set no longer does damage and aim punches, Royal Remains Set no longer pr
 
 To Do:
 
-Remove Lighroll, nerf Golem Arrow stun
+Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow
 
 -
 
