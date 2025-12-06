@@ -87,7 +87,7 @@ Briars Set no longer does damage and aim punches, Royal Remains Set no longer pr
 
 To Do:
 
-Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
+Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove HA from offrak, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
 
 Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
 
