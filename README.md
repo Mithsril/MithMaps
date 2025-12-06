@@ -54,6 +54,8 @@ F7: Kill All Mobs
 
 F8: Toggle Player List
 
+F9: Press twice to disconnect from a sesh
+
 -
 
 Seamless mods now work, by default these mods are included:
