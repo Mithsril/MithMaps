@@ -89,7 +89,7 @@ Briars Set no longer does damage and aim punches, Royal Remains Set no longer pr
 
 To Do:
 
-Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow
+Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
 
 -
 
