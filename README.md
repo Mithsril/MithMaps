@@ -91,7 +91,7 @@ To Do:
 
 Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
 
-Nerf 2h Tali from 20% -> 15% (maybe)
+Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
 
 -
 
