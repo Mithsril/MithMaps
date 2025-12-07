@@ -68,14 +68,14 @@ BALANCE CHANGES:
 
 Disabled Weapons: 
 
-BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, All Thursting Shields
+BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields
 
 (Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)
 
 
 Disabled Spells (subject to change): 
 
-All healing and regen spells except beastial vitality, Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
+All healing and regen spells (except Beastial Vitality), Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
 
 Disabled Consumables:
 
@@ -87,7 +87,9 @@ Briars Set no longer does damage and aim punches, Royal Remains Set no longer pr
 
 To Do:
 
-Remove Lighroll, nerf Golem Arrow stun
+Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove HA from offrak, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
+
+Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
 
 -
 
