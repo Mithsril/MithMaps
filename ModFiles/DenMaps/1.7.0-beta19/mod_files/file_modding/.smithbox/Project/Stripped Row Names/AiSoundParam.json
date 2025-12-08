@@ -10,25 +10,25 @@
     {
       "ID": 1000,
       "Entries": [
-        ""
+        "Slow Walk"
       ]
     },
     {
       "ID": 1010,
       "Entries": [
-        ""
+        "Normal Walk"
       ]
     },
     {
       "ID": 1020,
       "Entries": [
-        ""
+        "Running/Torrent Dash"
       ]
     },
     {
       "ID": 1030,
       "Entries": [
-        ""
+        "Roll"
       ]
     },
     {
@@ -106,37 +106,37 @@
     {
       "ID": 2000,
       "Entries": [
-        ""
+        "Attack Appear"
       ]
     },
     {
       "ID": 2010,
       "Entries": [
-        ""
+        "Weapon Hit"
       ]
     },
     {
       "ID": 2020,
       "Entries": [
-        ""
+        "Spell Hit"
       ]
     },
     {
       "ID": 2030,
       "Entries": [
-        ""
+        "Spell Hit"
       ]
     },
     {
       "ID": 2090,
       "Entries": [
-        ""
+        "Shattershard Arrow Hit"
       ]
     },
     {
       "ID": 2100,
       "Entries": [
-        ""
+        "Attack Hit"
       ]
     },
     {
@@ -160,7 +160,7 @@
     {
       "ID": 2200,
       "Entries": [
-        ""
+        "Arrow Hit"
       ]
     },
     {

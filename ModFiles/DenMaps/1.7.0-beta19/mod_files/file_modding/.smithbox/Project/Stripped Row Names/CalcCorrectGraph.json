@@ -4,19 +4,19 @@
     {
       "ID": 0,
       "Entries": [
-        ""
+        "Default"
       ]
     },
     {
       "ID": 1,
       "Entries": [
-        ""
+        "Heavy"
       ]
     },
     {
       "ID": 2,
       "Entries": [
-        ""
+        "Keen"
       ]
     },
     {
@@ -28,7 +28,7 @@
     {
       "ID": 4,
       "Entries": [
-        ""
+        "Magic / Fire / Lightning / Holy"
       ]
     },
     {
@@ -46,13 +46,13 @@
     {
       "ID": 7,
       "Entries": [
-        ""
+        "Occult"
       ]
     },
     {
       "ID": 8,
       "Entries": [
-        ""
+        "Quality"
       ]
     },
     {
@@ -76,7 +76,7 @@
     {
       "ID": 12,
       "Entries": [
-        ""
+        "Catalyst -"
       ]
     },
     {
@@ -88,19 +88,19 @@
     {
       "ID": 14,
       "Entries": [
-        ""
+        "Catalyst - Demi-Human Queen's Staff"
       ]
     },
     {
       "ID": 15,
       "Entries": [
-        ""
+        "Catalyst -"
       ]
     },
     {
       "ID": 16,
       "Entries": [
-        ""
+        "Catalyst -"
       ]
     },
     {
@@ -118,19 +118,19 @@
     {
       "ID": 100,
       "Entries": [
-        ""
+        "HP Scaling - Vigor"
       ]
     },
     {
       "ID": 101,
       "Entries": [
-        ""
+        "FP Scaling - Mind"
       ]
     },
     {
       "ID": 102,
       "Entries": [
-        ""
+        "Soul Level - Defence"
       ]
     },
     {
@@ -142,133 +142,133 @@
     {
       "ID": 104,
       "Entries": [
-        ""
+        "Stamina - Endurance"
       ]
     },
     {
       "ID": 110,
       "Entries": [
-        ""
+        "Resistance: Poison - Soul Level"
       ]
     },
     {
       "ID": 111,
       "Entries": [
-        ""
+        "Resistance: Scarlet Rot - Soul Level"
       ]
     },
     {
       "ID": 112,
       "Entries": [
-        ""
+        "Resistance: Blood Loss - Soul Level"
       ]
     },
     {
       "ID": 113,
       "Entries": [
-        ""
+        "Resistance: Frostbite - Soul Level"
       ]
     },
     {
       "ID": 114,
       "Entries": [
-        ""
+        "Resistance: Sleep - Soul Level"
       ]
     },
     {
       "ID": 115,
       "Entries": [
-        ""
+        "Resistance: Madness - Soul Level"
       ]
     },
     {
       "ID": 116,
       "Entries": [
-        ""
+        "Resistance: Death - Soul Level"
       ]
     },
     {
       "ID": 120,
       "Entries": [
-        ""
+        "Resistance: Poison - Stat"
       ]
     },
     {
       "ID": 121,
       "Entries": [
-        ""
+        "Resistance: Scarlet Rot - Stat"
       ]
     },
     {
       "ID": 122,
       "Entries": [
-        ""
+        "Resistance: Blood Loss - Stat"
       ]
     },
     {
       "ID": 123,
       "Entries": [
-        ""
+        "Resistance: Frostbite - Stat"
       ]
     },
     {
       "ID": 124,
       "Entries": [
-        ""
+        "Resistance: Sleep - Stat"
       ]
     },
     {
       "ID": 125,
       "Entries": [
-        ""
+        "Resistance: Madness - Stat"
       ]
     },
     {
       "ID": 126,
       "Entries": [
-        ""
+        "Resistance: Death - Stat"
       ]
     },
     {
       "ID": 130,
       "Entries": [
-        ""
+        "Physical Defence - Strength"
       ]
     },
     {
       "ID": 131,
       "Entries": [
-        ""
+        "Physical Defence - Vitality"
       ]
     },
     {
       "ID": 132,
       "Entries": [
-        ""
+        "Magic Defence - Intelligence"
       ]
     },
     {
       "ID": 133,
       "Entries": [
-        ""
+        "Fire Defence - Vigor"
       ]
     },
     {
       "ID": 134,
       "Entries": [
-        ""
+        "Lightning Defence - Endurance"
       ]
     },
     {
       "ID": 135,
       "Entries": [
-        ""
+        "Holy Defence - Faith"
       ]
     },
     {
       "ID": 140,
       "Entries": [
-        ""
+        "Item Discovery - Arcane"
       ]
     },
     {
@@ -280,85 +280,85 @@
     {
       "ID": 160,
       "Entries": [
-        ""
+        "Shield - Absorption %"
       ]
     },
     {
       "ID": 161,
       "Entries": [
-        ""
+        "Shield - Attribute %"
       ]
     },
     {
       "ID": 162,
       "Entries": [
-        ""
+        "Shield - Status %"
       ]
     },
     {
       "ID": 163,
       "Entries": [
-        ""
+        "Shield - Stamina %"
       ]
     },
     {
       "ID": 170,
       "Entries": [
-        ""
+        "Weapon Arts Point Max - Strength"
       ]
     },
     {
       "ID": 171,
       "Entries": [
-        ""
+        "Weapon Arts Point Max - Dexterity"
       ]
     },
     {
       "ID": 172,
       "Entries": [
-        ""
+        "Weapon Arts Point Max - Intelligence"
       ]
     },
     {
       "ID": 173,
       "Entries": [
-        ""
+        "Weapon Arts Point Max - Faith"
       ]
     },
     {
       "ID": 200,
       "Entries": [
-        ""
+        "Soul Level - Souls Required"
       ]
     },
     {
       "ID": 210,
       "Entries": [
-        ""
+        "Fall Damage - Distance"
       ]
     },
     {
       "ID": 211,
       "Entries": [
-        ""
+        "Fall Damage - Equip Load"
       ]
     },
     {
       "ID": 212,
       "Entries": [
-        ""
+        "Fall Damage - Strength"
       ]
     },
     {
       "ID": 213,
       "Entries": [
-        ""
+        "Fall Damage - Dexterity"
       ]
     },
     {
       "ID": 220,
       "Entries": [
-        ""
+        "Equip Load - Endurance"
       ]
     },
     {

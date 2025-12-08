@@ -4,133 +4,133 @@
     {
       "ID": 0,
       "Entries": [
-        ""
+        "Default (EMEVD weather enum 0)"
       ]
     },
     {
       "ID": 1,
       "Entries": [
-        ""
+        "Cloudless (EMEVD weather enum 5)"
       ]
     },
     {
       "ID": 10,
       "Entries": [
-        ""
+        "Flat Clouds (EMEVD weather enum 6)"
       ]
     },
     {
       "ID": 11,
       "Entries": [
-        ""
+        "Puffy Clouds (EMEVD weather enum 7)"
       ]
     },
     {
       "ID": 20,
       "Entries": [
-        ""
+        "Rain (EMEVD weather enum 1)"
       ]
     },
     {
       "ID": 21,
       "Entries": [
-        ""
+        "Rainy Clouds (EMEVD weather enum 8)"
       ]
     },
     {
       "ID": 30,
       "Entries": [
-        ""
+        "Windy Rain (EMEVD weather enum 3)"
       ]
     },
     {
       "ID": 31,
       "Entries": [
-        ""
+        "Windy Fog (EMEVD weather enum 9)"
       ]
     },
     {
       "ID": 40,
       "Entries": [
-        ""
+        "Snow (EMEVD weather enum 2)"
       ]
     },
     {
       "ID": 41,
       "Entries": [
-        ""
+        "Heavy Snow (EMEVD weather enum 10)"
       ]
     },
     {
       "ID": 50,
       "Entries": [
-        ""
+        "Fog (EMEVD weather enum 4)"
       ]
     },
     {
       "ID": 51,
       "Entries": [
-        ""
+        "Heavy Fog (EMEVD weather enum 11)"
       ]
     },
     {
       "ID": 52,
       "Entries": [
-        ""
+        "Rainy Heavy Fog (EMEVD weather enum 15)"
       ]
     },
     {
       "ID": 60,
       "Entries": [
-        ""
+        "Windy Puffy Clouds (EMEVD weather enum 12)"
       ]
     },
     {
       "ID": 81,
       "Entries": [
-        ""
+        "Snowy Heavy Fog (EMEVD weather enum 16)"
       ]
     },
     {
       "ID": 82,
       "Entries": [
-        ""
+        "Scattered Rain (EMEVD weather enum 17)"
       ]
     },
     {
       "ID": 83,
       "Entries": [
-        ""
+        "Unk18 (EMEVD weather enum 18)"
       ]
     },
     {
       "ID": 84,
       "Entries": [
-        ""
+        "ThisDoesntExistInVanilla (EMEVD weather enum 19)"
       ]
     },
     {
       "ID": 85,
       "Entries": [
-        ""
+        "ThisDoesntExistInVanilla (EMEVD weather enum 20)"
       ]
     },
     {
       "ID": 86,
       "Entries": [
-        ""
+        "ThisDoesntExistInVanilla (EMEVD weather enum 21)"
       ]
     },
     {
       "ID": 87,
       "Entries": [
-        ""
+        "ThisDoesntExistInVanilla (EMEVD weather enum 22)"
       ]
     },
     {
       "ID": 88,
       "Entries": [
-        ""
+        "ThisDoesntExistInVanilla (EMEVD weather enum 23)"
       ]
     },
     {
