@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tpf>
+  <filename>WP_A_6701_L.tpf</filename>
+  <compression>None</compression>
+  <encoding>0x01</encoding>
+  <flag2>0x03</flag2>
+  <platform>PC</platform>
+  <textures>
+    <texture>
+      <name>WP_A_6701_a_l.dds</name>
+      <format>1</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_6701_m_l.dds</name>
+      <format>103</format>
+      <flags1>0x00</flags1>
+    </texture>
+    <texture>
+      <name>WP_A_6701_n_l.dds</name>
+      <format>106</format>
+      <flags1>0x00</flags1>
+    </texture>
+  </textures>
+</tpf>
