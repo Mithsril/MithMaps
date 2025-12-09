@@ -50798,6 +50798,12 @@
       ]
     },
     {
+      "ID": 1648001,
+      "Entries": [
+        "Void Blade Fort"
+      ]
+    },
+    {
       "ID": 1649000,
       "Entries": [
         "[Incantation] Lord's Divine Fortification"
@@ -50855,6 +50861,12 @@
       "ID": 1660002,
       "Entries": [
         "[Incantation] Golden Vow"
+      ]
+    },
+    {
+      "ID": 1660003,
+      "Entries": [
+        "Void Blade Vow"
       ]
     },
     {
