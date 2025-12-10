@@ -13,10 +13,11 @@ Includes custom 2v2 and 3v3 maps that take place in the DEN1 custom areas
 
 The current maps are:
 
-1. Redmane Battlegrounds (3v3)
-2. Scriptorium Archives (2v2)
-3. Seaside Stronghold (3v3)
-4. Dueling Square (Now has Crystal Lake arena shape) WIP
+1. Redmane Battlegrounds (3v3) - made by Mithsril
+2. Scriptorium Archives (2v2) - made by Mithsril
+3. Seaside Stronghold (3v3) - made by Hexwave
+4. Battle Square (2v2) - made by Den Team
+5. Luminous Lake (1v1) - made by Den Team and Mithsril
 
 -
 
