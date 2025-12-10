@@ -50,3 +50,18 @@
 [2025-12-09 16:20:34.484] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff731d09478
 [2025-12-09 16:20:34.489] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
 [2025-12-09 16:20:34.491] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-09 22:24:22.901] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-09 22:24:24.946] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff730e19478
+[2025-12-09 22:24:24.956] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-09 22:24:24.958] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-09 22:37:04.355] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-09 22:37:06.398] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff730e19478
+[2025-12-09 22:37:06.403] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-09 22:37:50.205] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-09 22:37:52.326] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff730e19478
+[2025-12-09 22:37:52.367] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-09 22:37:52.378] [gg] [info] [dllmain.cpp:88] Initialized mod
+[2025-12-09 22:47:11.938] [gg] [info] [dllmain.cpp:79] GG version 1.0.2
+[2025-12-09 22:47:13.975] [gg] [warning] [singletons.cpp:48] Unknown singleton CSTrophy at 0x7ff730e19478
+[2025-12-09 22:47:13.981] [gg] [warning] [singletons.cpp:60] Can't find singleton FD4HkEzDrawRigidBodyDispBufferManager
+[2025-12-09 22:47:13.985] [gg] [info] [dllmain.cpp:88] Initialized mod
