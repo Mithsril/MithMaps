@@ -17,7 +17,7 @@ The current maps are:
 2. Scriptorium Archives (2v2) - made by Mithsril
 3. Seaside Stronghold (3v3) - made by Hexwave
 4. Brawling Square (2v2) - made by Den Team
-5. Luminous Lake (1v1) - made by Den Team and Mithsril
+5. Luminous Lake (1v1) - made by Den Team and edited by Mithsril
 
 -
 
@@ -91,6 +91,12 @@ To Do:
 Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove HA from offrak, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
 
 Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
+
+-
+
+New Weapons:
+
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames)
 
 -
 
