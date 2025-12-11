@@ -16,7 +16,7 @@ The current maps are:
 1. Redmane Battlegrounds (3v3) - made by Mithsril
 2. Scriptorium Archives (2v2) - made by Mithsril
 3. Seaside Stronghold (3v3) - made by Hexwave
-4. [Not Out Yet] Battle Square (2v2) - made by Den Team
+4. Brawling Square (2v2) - made by Den Team
 5. Luminous Lake (1v1) - made by Den Team and Mithsril
 
 -
