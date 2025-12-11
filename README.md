@@ -98,6 +98,8 @@ New Weapons:
 
 Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames)
 
+Gilded Maul - A mixture of Club, Morningstar, Gclub, Halberd, and etc. (Unfinished)
+
 -
 
 Huge shoutout to the following people for helping me:
