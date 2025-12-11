@@ -67,7 +67,7 @@ Transparent UI DLC fixes (Made by ShenDaiSword)
 
 BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
-Disabled Weapons: 
+~~Disabled Weapons:~~
 
 ~~BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields~~
 
