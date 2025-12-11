@@ -71,7 +71,7 @@ Disabled Weapons:
 
 ~~BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields~~
 
-~~Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)~~~
+~~Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)~~
 
 
 ~~Disabled Spells (subject to change):~~
