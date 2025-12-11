@@ -16,7 +16,7 @@
       "LockAspectRatioDuringRemo": true,
       "Name": "Default",
       "CameraLocationInWorld": {
-        "Position": "0, 0.925, 47.02046",
+        "Position": "0, 0.925, 38.085945",
         "Rotation": {
           "X": 0.0,
           "Y": 0.0,
@@ -44,7 +44,7 @@
         }
       },
       "CameraLocationInWorld_CloserForSound": {
-        "Position": "0, 0.925, 47.02046",
+        "Position": "0, 0.925, 38.085945",
         "Rotation": {
           "X": 0.0,
           "Y": 0.0,
@@ -73,7 +73,7 @@
       },
       "RootMotionFollow_EnableWrap": true,
       "RootMotionFollow_EnableWrap_Y": true,
-      "RootMotionFollow_Translation": "0, 0, -43.66448",
+      "RootMotionFollow_Translation": "0, 0, -34.729965",
       "RootMotionFollow_Rotation": -0.0,
       "CameraOrbitOrigin": "0, 0, 0",
       "CameraOrbitOriginOffset": "0, 0.925, 0",
@@ -161,7 +161,7 @@
         "M34": 0.0,
         "M41": 0.0,
         "M42": -0.925,
-        "M43": -47.02046,
+        "M43": -38.085945,
         "M44": 1.0
       },
       "Matrix_View_Skybox": {
@@ -189,7 +189,7 @@
       "AngleSnap": 0.7853982,
       "AngleSnapEnable": false,
       "PivotPrimIsEnabled": false,
-      "OrbitCamCenter_DummyPolyFollowRefPoint": "0.09827614, 1.0620848, -0.10993856",
+      "OrbitCamCenter_DummyPolyFollowRefPoint": "-0.13834484, 1.0097196, 0.0042668274",
       "OrbitCamCenter_DummyPolyFollowRefPoint_Init": "0, 0.925, 0",
       "OverallMouseSpeedMult": 1.0,
       "CameraTurnSpeedMouse": 1.0,
@@ -210,7 +210,7 @@
         "M34": 0.0,
         "M41": 0.0,
         "M42": 0.0,
-        "M43": -43.66448,
+        "M43": -34.729965,
         "M44": 1.0
       },
       "RootMotionFollow_Matrix_WrappedIfApplicable": {
@@ -228,13 +228,13 @@
         "M34": 0.0,
         "M41": 0.0,
         "M42": 0.0,
-        "M43": -43.66448,
+        "M43": -34.729965,
         "M44": 1.0
       },
       "OrbitCamDistance": 3.355979,
       "ProjectionIsOrthographic": false,
       "ProjectionVerticalFovRatio": 1.0,
-      "PivotPrimVisRatio": 0.0
+      "PivotPrimVisRatio": 0.99652785
     }
   ]
 }
