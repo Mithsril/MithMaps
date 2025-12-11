@@ -94,6 +94,12 @@ Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
 
 -
 
+New Weapons:
+
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames)
+
+-
+
 Huge shoutout to the following people for helping me:
 
 Molly
