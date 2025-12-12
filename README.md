@@ -94,7 +94,7 @@ BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
 -
 
-New Weapons: 
+New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
 Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
