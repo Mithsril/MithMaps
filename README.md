@@ -96,9 +96,9 @@ BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
 New Weapons: 
 
-Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames + no hyper armor)
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
-Silver Maul - A mixture of Club, Morningstar, Gclub, Halberd, Gkat, and CGS. (No hyper armor at all)
+Silver Maul - A mixture of Club, Morningstar, Gclub, Halberd, Gkat, and CGS.
 
 -
 
