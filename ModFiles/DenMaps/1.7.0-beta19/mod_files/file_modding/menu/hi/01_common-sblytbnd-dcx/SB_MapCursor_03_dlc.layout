@@ -1,0 +1,40 @@
+<TextureAtlas imagePath="SB_MapCursor_03_dlc.png">
+	<SubTexture name="MENU_MAP_208.png" x="644" y="0" width="130" height="256" half="0"/>
+	<SubTexture name="MENU_MAP_210.png" x="0" y="130" width="266" height="250" half="0"/>
+	<SubTexture name="MENU_MAP_211.png" x="490" y="682" width="186" height="240" half="0"/>
+	<SubTexture name="MENU_MAP_212.png" x="0" y="384" width="262" height="198" half="0"/>
+	<SubTexture name="MENU_MAP_213.png" x="656" y="1836" width="166" height="208" half="0"/>
+	<SubTexture name="MENU_MAP_214.png" x="656" y="1836" width="166" height="208" half="0"/>
+	<SubTexture name="MENU_MAP_215.png" x="656" y="1836" width="166" height="208" half="0"/>
+	<SubTexture name="MENU_MAP_217.png" x="484" y="1646" width="188" height="186" half="0"/>
+	<SubTexture name="MENU_MAP_218.png" x="0" y="1778" width="238" height="140" half="0"/>
+	<SubTexture name="MENU_MAP_230.png" x="496" y="516" width="146" height="142" half="0"/>
+	<SubTexture name="MENU_MAP_231.png" x="484" y="1012" width="222" height="170" half="0"/>
+	<SubTexture name="MENU_MAP_232.png" x="484" y="1492" width="202" height="150" half="0"/>
+	<SubTexture name="MENU_MAP_233.png" x="484" y="1326" width="204" height="162" half="0"/>
+	<SubTexture name="MENU_MAP_234.png" x="484" y="1836" width="168" height="152" half="0"/>
+	<SubTexture name="MENU_MAP_240.png" x="0" y="0" width="270" height="126" half="0"/>
+	<SubTexture name="MENU_MAP_241.png" x="242" y="1616" width="238" height="222" half="0"/>
+	<SubTexture name="MENU_MAP_242.png" x="0" y="1274" width="244" height="194" half="0"/>
+	<SubTexture name="MENU_MAP_243.png" x="0" y="586" width="262" height="202" half="0"/>
+	<SubTexture name="MENU_MAP_244.png" x="266" y="384" width="228" height="128" half="0"/>
+	<SubTexture name="MENU_MAP_245.png" x="270" y="130" width="226" height="170" half="0"/>
+	<SubTexture name="MENU_MAP_246.png" x="250" y="1080" width="230" height="146" half="0"/>
+	<SubTexture name="MENU_MAP_247.png" x="646" y="482" width="122" height="182" half="0"/>
+	<SubTexture name="MENU_MAP_248.png" x="256" y="792" width="230" height="216" half="0"/>
+	<SubTexture name="MENU_MAP_249.png" x="242" y="1842" width="238" height="188" half="0"/>
+	<SubTexture name="MENU_MAP_250.png" x="0" y="902" width="252" height="174" half="0"/>
+	<SubTexture name="MENU_MAP_251.png" x="266" y="516" width="226" height="162" half="0"/>
+	<SubTexture name="MENU_MAP_252.png" x="0" y="1472" width="242" height="140" half="0"/>
+	<SubTexture name="MENU_MAP_253.png" x="246" y="1472" width="234" height="138" half="0"/>
+	<SubTexture name="MENU_MAP_254.png" x="248" y="1274" width="232" height="148" half="0"/>
+	<SubTexture name="MENU_MAP_255.png" x="0" y="1922" width="238" height="98" half="0"/>
+	<SubTexture name="MENU_MAP_256.png" x="498" y="304" width="154" height="174" half="0"/>
+	<SubTexture name="MENU_MAP_257.png" x="656" y="260" width="60" height="202" half="0"/>
+	<SubTexture name="MENU_MAP_258.png" x="500" y="0" width="140" height="236" half="0"/>
+	<SubTexture name="MENU_MAP_259.png" x="484" y="1186" width="214" height="136" half="0"/>
+	<SubTexture name="MENU_MAP_260.png" x="0" y="792" width="252" height="106" half="0"/>
+	<SubTexture name="MENU_MAP_261.png" x="0" y="1616" width="238" height="158" half="0"/>
+	<SubTexture name="MENU_MAP_LivelyRange.png" x="0" y="1080" width="246" height="190" half="0"/>
+</TextureAtlas>
+
