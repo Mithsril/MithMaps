@@ -94,11 +94,11 @@ BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
 -
 
-New Weapons: 
+New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
-Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames)
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
-Gilded Maul - A mixture of Club, Morningstar, Gclub, Halberd, and etc. (Unfinished)
+Silver Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, and CGS.
 
 -
 
