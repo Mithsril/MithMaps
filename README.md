@@ -99,7 +99,7 @@ New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
 Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
-Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, and CGS.
+Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS.
 
 -
 
