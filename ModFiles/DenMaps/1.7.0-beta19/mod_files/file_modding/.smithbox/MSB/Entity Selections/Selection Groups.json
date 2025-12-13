@@ -351,6 +351,20 @@
         "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_266",
         "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_265"
       ]
+    },
+    {
+      "Name": "path railing 5",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "AEG250_501_1143",
+        "AEG250_501_1144",
+        "AEG250_501_1145",
+        "AEG250_501_1146",
+        "AEG250_501_1147"
+      ]
     }
   ]
 }
