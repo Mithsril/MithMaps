@@ -318,6 +318,39 @@
         "m60_51_57_00-AEG030_084_2002",
         "m60_51_57_00-AEG030_089_2042"
       ]
+    },
+    {
+      "Name": "lights",
+      "SelectionGroupKeybind": -1,
+      "Tags": [
+        ""
+      ],
+      "Selection": [
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_244",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_243",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_264",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_263",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_262",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_261",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_258",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_257",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_260",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_259",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_256",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_255",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_254",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_253",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_248",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_247",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_246",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_245",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_250",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_249",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_252",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_251",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_266",
+        "FakeLight_\u5149\u6E90_\u711A\u706B\u53F0A_265"
+      ]
     }
   ]
 }
