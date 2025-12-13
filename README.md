@@ -18,6 +18,7 @@ The current maps are:
 3. Seaside Stronghold (3v3) - made by Hexwave
 4. Brawling Square (2v2) - made by Den Team
 5. Luminous Lake (1v1) - made by Den Team and edited by Mithsril
+6. Secluded Tower (1v) - made by Mithsril
 
 -
 
@@ -98,7 +99,7 @@ New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
 Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
-Silver Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, and CGS.
+Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, and CGS.
 
 -
 
