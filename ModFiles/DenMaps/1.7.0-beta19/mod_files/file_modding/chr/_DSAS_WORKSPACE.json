@@ -16,12 +16,12 @@
       "LockAspectRatioDuringRemo": true,
       "Name": "Default",
       "CameraLocationInWorld": {
-        "Position": "3.1158032, 2.028342, -0.5805187",
+        "Position": "0, 0.925, 4.599304",
         "Rotation": {
-          "X": -0.10654542,
-          "Y": 0.75837874,
-          "Z": 0.12822984,
-          "W": 0.63013244
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
         },
         "Scale": "1, 1, 1",
         "OverrideMatrixWorld": {
@@ -44,12 +44,12 @@
         }
       },
       "CameraLocationInWorld_CloserForSound": {
-        "Position": "3.1158032, 2.028342, -0.5805187",
+        "Position": "0, 0.925, 4.599304",
         "Rotation": {
-          "X": -0.10654542,
-          "Y": 0.75837874,
-          "Z": 0.12822984,
-          "W": 0.63013244
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0,
+          "W": 1.0
         },
         "Scale": "1, 1, 1",
         "OverrideMatrixWorld": {
@@ -73,18 +73,18 @@
       },
       "RootMotionFollow_EnableWrap": true,
       "RootMotionFollow_EnableWrap_Y": true,
-      "RootMotionFollow_Translation": "0, 0, 0",
+      "RootMotionFollow_Translation": "0, 0, -1.243325",
       "RootMotionFollow_Rotation": -0.0,
       "CameraOrbitOrigin": "0, 0, 0",
       "CameraOrbitOriginOffset": "0, 0.925, 0",
       "CameraOrbigtDefaultHeightForRootMotion": 0.0,
       "CameraLookDirection": {
-        "X": -0.10654542,
-        "Y": 0.75837874,
-        "Z": 0.12822984,
-        "W": 0.63013244
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
       },
-      "OrbitCamEuler": "-0.33499983, 1.7549987, 0",
+      "OrbitCamEuler": "0, 0, 0",
       "ScrollSpeedMult_Keyboard": 1.0,
       "ScrollSpeedMult_Mouse": 1.0,
       "OrbitCamDistanceInput": 3.355979,
@@ -93,7 +93,7 @@
       "ProjectionNearClipDist": 0.1,
       "ProjectionFarClipDist": 10000.0,
       "Matrix_Projection": {
-        "M11": 1.36474,
+        "M11": 0.9837782,
         "M12": 0.0,
         "M13": 0.0,
         "M14": 0.0,
@@ -111,7 +111,7 @@
         "M44": 0.0
       },
       "Matrix_Projection_Skybox": {
-        "M11": 0.7677516,
+        "M11": 0.5534367,
         "M12": 0.0,
         "M13": 0.0,
         "M14": 0.0,
@@ -147,35 +147,35 @@
         "M44": 1.0
       },
       "Matrix_View": {
-        "M11": -0.18316245,
-        "M12": -0.32320714,
-        "M13": 0.9284335,
+        "M11": 1.0,
+        "M12": 0.0,
+        "M13": 0.0,
         "M14": 0.0,
-        "M21": 1.4901161E-08,
-        "M22": 0.9444104,
-        "M23": 0.32876903,
+        "M21": 0.0,
+        "M22": 1.0,
+        "M23": 0.0,
         "M24": 0.0,
-        "M31": -0.9830827,
-        "M32": 0.060218126,
-        "M33": -0.17298055,
+        "M31": 0.0,
+        "M32": 0.0,
+        "M33": 1.0,
         "M34": 0.0,
-        "M41": 1.7881393E-07,
-        "M42": -0.87357974,
-        "M43": -3.6600904,
+        "M41": 0.0,
+        "M42": -0.925,
+        "M43": -4.599304,
         "M44": 1.0
       },
       "Matrix_View_Skybox": {
-        "M11": -0.18316245,
-        "M12": -0.32320714,
-        "M13": 0.9284335,
+        "M11": 1.0,
+        "M12": 0.0,
+        "M13": 0.0,
         "M14": 0.0,
-        "M21": 1.4901161E-08,
-        "M22": 0.9444104,
-        "M23": 0.32876903,
+        "M21": 0.0,
+        "M22": 1.0,
+        "M23": 0.0,
         "M24": 0.0,
-        "M31": -0.9830827,
-        "M32": 0.060218126,
-        "M33": -0.17298055,
+        "M31": 0.0,
+        "M32": 0.0,
+        "M33": 1.0,
         "M34": 0.0,
         "M41": 0.0,
         "M42": 0.0,
@@ -189,7 +189,7 @@
       "AngleSnap": 0.7853982,
       "AngleSnapEnable": false,
       "PivotPrimIsEnabled": false,
-      "OrbitCamCenter_DummyPolyFollowRefPoint": "0.16163641, 0.87225324, 0.083393544",
+      "OrbitCamCenter_DummyPolyFollowRefPoint": "0.014750838, 0.83488244, 0.04385674",
       "OrbitCamCenter_DummyPolyFollowRefPoint_Init": "0, 0.925, 0",
       "OverallMouseSpeedMult": 1.0,
       "CameraTurnSpeedMouse": 1.0,
@@ -210,7 +210,7 @@
         "M34": 0.0,
         "M41": 0.0,
         "M42": 0.0,
-        "M43": 0.0,
+        "M43": -1.243325,
         "M44": 1.0
       },
       "RootMotionFollow_Matrix_WrappedIfApplicable": {
@@ -228,7 +228,7 @@
         "M34": 0.0,
         "M41": 0.0,
         "M42": 0.0,
-        "M43": 0.0,
+        "M43": -1.243325,
         "M44": 1.0
       },
       "OrbitCamDistance": 3.355979,
