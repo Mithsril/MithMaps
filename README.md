@@ -8,15 +8,17 @@ C:\Users\YOUR-PC'S-NAME\AppData\Roaming\EldenRing
 
 -
 
-Includes custom 2v2 and 3v3 maps that take place in the DEN1 custom areas
+Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations
 
 
 The current maps are:
 
-1. Redmane Battlegrounds (3v3)
-2. Scriptorium Archives (2v2)
-3. Seaside Stronghold (3v3)
-4. Dueling Square (Now has Crystal Lake arena shape) WIP
+1. Redmane Battlegrounds (3v3) - made by Mithsril
+2. Seaside Stronghold (3v3) - made by Hexwave
+3. Scriptorium Archives (2v2) - made by Mithsril
+4. Brawling Square (2v2) - made by Den Team
+5. Luminous Lake (1v1) - made by Den Team and edited by Mithsril
+6. Secluded Towers (1v1) - made by Mithsril
 
 -
 
@@ -64,32 +66,40 @@ Transparent UI DLC fixes (Made by ShenDaiSword)
 
 -
 
-BALANCE CHANGES:
+BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
-Disabled Weapons: 
+~~Disabled Weapons:~~
 
-BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields
+~~BHS and QS on Thrusting Swords, Pata, Bone Bow, Leda's Sword, Smithscript Cirque, Curseblade, Both Thrusting Shields~~
 
-(Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)
+~~Sword Lance and Milady have had their damage nerfed by 30%, Cleanrot nerfed by 15%, Backhand Blades nerfed by 10%, and Claws of Night by 50%)~~
 
 
-Disabled Spells (subject to change): 
+~~Disabled Spells (subject to change):~~
 
-All healing and regen spells (except Beastial Vitality), Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb
+~~All healing and regen spells (except Beastial Vitality), Gravity Missile, Law of Regression, Night Maiden's Mist, Unseen Form, Comet, Night Comet, Rellana's Twin Moons, Blades of Stone, Giants Flame Take Thee, Ancient Dragon Lightning Strike, Smarag's Glintstone Breath, Messmer's Orb~~
 
-Disabled Consumables:
+~~Disabled Consumables:~~
 
-Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestess Heart, Lamenter's Mask
+~~Uplifting aromatic, Rot and Poison Greases, Shield Grease, All Hefty Pots except for Shit Pot and Volcano Pot, Scorpion Consumables, Both Baldachins, Fire coil, Ancient Dragon's Blessing, Rock Heart, Priestess Heart, Lamenter's Mask~~
 
-Nerfed Armor:
+~~Nerfed Armor:~~
 
-Briars Set no longer does damage and aim punches, Royal Remains Set no longer provides a healing effect at low HP
+~~Briars Set no longer does damage and aim punches, Royal Remains Set no longer provides a healing effect at low HP~~
 
-To Do:
+~~To Do:~~
 
-Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove HA from offrak, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles
+~~Remove Lighroll, nerf Golem Arrow stun, remove status bolts from Spread Crossbow, remove HA from offrak, remove Crucible Feather Tali + Fine Crucible Feather Tali + Tali of All Crucibles~~
 
-Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun
+~~Nerf 2h Tali from 20% -> 15% (maybe), Moonveil L2 to tier 1 stun~~
+
+-
+
+New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
+
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
+
+Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS.
 
 -
 
