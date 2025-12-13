@@ -8,7 +8,7 @@ C:\Users\YOUR-PC'S-NAME\AppData\Roaming\EldenRing
 
 -
 
-Includes custom 2v2 and 3v3 maps that take place in the DEN1 custom areas
+Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations
 
 
 The current maps are:
