@@ -8,16 +8,17 @@ C:\Users\YOUR-PC'S-NAME\AppData\Roaming\EldenRing
 
 -
 
-Includes custom 2v2 and 3v3 maps that take place in the DEN1 custom areas
+Includes custom 2v2 and 3v3 maps that take place in the DEN1 map locations
 
 
 The current maps are:
 
 1. Redmane Battlegrounds (3v3) - made by Mithsril
-2. Scriptorium Archives (2v2) - made by Mithsril
-3. Seaside Stronghold (3v3) - made by Hexwave
+2. Seaside Stronghold (3v3) - made by Hexwave
+3. Scriptorium Archives (2v2) - made by Mithsril
 4. Brawling Square (2v2) - made by Den Team
 5. Luminous Lake (1v1) - made by Den Team and edited by Mithsril
+6. Secluded Towers (1v1) - made by Mithsril
 
 -
 
@@ -94,11 +95,11 @@ BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
 -
 
-New Weapons: 
+New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
-Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. (Claymore cr1 and r2 sped up by 3 frames)
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
 
-Gilded Maul - A mixture of Club, Morningstar, Gclub, Halberd, and etc. (Unfinished)
+Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS.
 
 -
 
