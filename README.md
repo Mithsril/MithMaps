@@ -111,7 +111,7 @@ Hexwave
 
 Emilia
 
-Amy + Den Team
+Den Team
 
 "# MithMaps" 
 "# MithMaps" 
