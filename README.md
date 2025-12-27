@@ -97,9 +97,9 @@ BALANCE CHANGES: (DISABLED FOR NOW DUE TO POPULAR DEMAND)
 
 New Weapons: (Can be purchased at the Twin Maiden Husks in Roundtable Hold)
 
-Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore.
+Void Blade - A mixture of HTS, LGS, TS, CS, and Claymore. Original model made by Conkin.
 
-Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS.
+Regal Maul - A mixture of Hammer, Morningstar, Great Hammer, Halberd, Gkat, CW, and CGS. Original model made by Cixler.
 
 -
 
