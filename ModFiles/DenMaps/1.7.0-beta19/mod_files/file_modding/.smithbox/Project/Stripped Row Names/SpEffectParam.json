@@ -51476,6 +51476,12 @@
       ]
     },
     {
+      "ID": 4600600,
+      "Entries": [
+        ""
+      ]
+    },
+    {
       "ID": 5010600,
       "Entries": [
         "[Weapon] Celebrant's Sickle - Rune Gain on Hit"
@@ -66842,6 +66848,12 @@
       ]
     },
     {
+      "ID": 20500671,
+      "Entries": [
+        ""
+      ]
+    },
+    {
       "ID": 20500680,
       "Entries": [
         "[Item] Hefty Furnace Pot"
@@ -68018,6 +68030,36 @@
       ]
     },
     {
+      "ID": 46000300,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 46000401,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 46000501,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 46000600,
+      "Entries": [
+        ""
+      ]
+    },
+    {
+      "ID": 46000700,
+      "Entries": [
+        ""
+      ]
+    },
+    {
       "ID": 46010000,
       "Entries": [
         "DenMaps - RespawnAuraVfxSpEffectId"
@@ -68057,6 +68099,12 @@
       "ID": 46010040,
       "Entries": [
         "DenMaps - RespawnLawOfRegressionNoVfxSE"
+      ]
+    },
+    {
+      "ID": 46010050,
+      "Entries": [
+        ""
       ]
     },
     {
@@ -68105,12 +68153,6 @@
       "ID": 46020210,
       "Entries": [
         "Trigger Fall Death Cam"
-      ]
-    },
-    {
-      "ID": 46020211,
-      "Entries": [
-        "Trigger Instant Fall Death"
       ]
     },
     {
