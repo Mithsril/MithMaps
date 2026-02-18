@@ -9,6 +9,7 @@
 
 // コンストラクタ -- constructor
 $Event(0, Default, function() {
+    RegisterBonfire(46000000, 46001950, 0, 0, 0, 0);
     $InitializeEvent(0, 45002200);
     $InitializeEvent(0, 45002210);
     $InitializeEvent(0, 45002220);

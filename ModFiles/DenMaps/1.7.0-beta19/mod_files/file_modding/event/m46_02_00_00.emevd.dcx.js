@@ -18,6 +18,13 @@ $Event(0, Default, function() {
     $InitializeEvent(0, 45022261);
     $InitializeEvent(0, 45022262);
     $InitializeEvent(0, 45022263);
+    //---start signal---
+    //how the start signals work:
+    //event id,
+    //triggerAsset (action button entityid asset),
+    //team source (c1000, object type: enemy) above bullet source at 30.075Y,
+    //bullet source (object type: other) below team source 30.00Y,
+    //is it a dueling arena? 0: false / 1: true
     $InitializeCommonEvent(0, 46990051, 4520000, 4520001, 4520002, 0, 2.5);
     $InitializeCommonEvent(0, 46990051, 4520003, 4520004, 4520005, 1, 1.7);
     //warps 
@@ -34,7 +41,6 @@ $Event(0, Default, function() {
     $InitializeCommonEvent(0, 46990070, 4520033, 4520014);
     $InitializeCommonEvent(0, 46990070, 4520043, 4520014);
     $InitializeCommonEvent(0, 46990070, 4520053, 4520014);
-    
     
     GotoIf(L0, HasArenaMatchType(ArenaMatchType.Duel, false));
     GotoIf(L0, HasArenaMatchType(ArenaMatchType.Duel, true));
@@ -141,7 +147,6 @@ $Event(45022262, Restart, function(){
     DisableNetworkSync();
     ChangeWeather(Weather.Snow, 0, true);
 });
-
 //disable objects in arena match
 $Event(45022263, Restart, function(){
     DisableNetworkSync();
